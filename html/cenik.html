@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<!-- Meta -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="author" content="Awaiken">
+    
+	<!-- Page Title -->
+    <title>Ceník</title>
+    <link href="css/kamel.css" rel="stylesheet" media="screen">
+	<!-- Favicon Icon -->
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+	<!-- Google Fonts Css-->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+	<!-- Bootstrap Css -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- SlickNav Css -->
+	<link href="css/slicknav.min.css" rel="stylesheet">
+	<!-- Swiper Css -->
+	<link rel="stylesheet" href="css/swiper-bundle.min.css">
+	<!-- Font Awesome Icon Css-->
+	<link href="css/all.css" rel="stylesheet" media="screen">
+	<!-- Animated Css -->
+	<link href="css/animate.css" rel="stylesheet">
+    <!-- Magnific Popup Core Css File -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<!-- Mouse Cursor Css File -->
+	<link rel="stylesheet" href="css/mousecursor.css">
+	<!-- Main Custom Css -->
+	<link href="css/custom.css" rel="stylesheet" media="screen">
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:wght@600&display=swap" rel="stylesheet">
+
+    <script>
+        function toggleSubcategory(id) {
+            var element = document.getElementById(id);
+            var icon = document.getElementById(id + '-icon');
+            if (element.style.display === "none" || element.style.display === "") {
+                element.style.display = "block";
+                icon.classList.add('active');
+            } else {
+                element.style.display = "none";
+                icon.classList.remove('active');
+            }
+        }
+
+        function showYear(year) {
+            var years = document.querySelectorAll('.year-content');
+            years.forEach(function(element) {
+                element.style.display = 'none';
+            });
+            document.getElementById('year-' + year).style.display = 'block';
+        }
+    </script>
+</head>
+<body>
+
+    <!-- Preloader Start -->
+	<div class="preloader">
+		<div class="loading-container">
+			<div class="loading"></div>
+			<div id="loading-icon"><img src="images/loader.svg" alt=""></div>
+		</div>
+	</div>
+	<!-- Preloader End -->
+
+    <!-- Topbar Section Start -->
+    <div class="topbar">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-9 col-md-12">
+                    <!-- Topbar Contact Information Start -->
+                    <div class="topbar-contact-info">
+                        <ul>
+                            <li><a href="#"><img src="images/icon-phone.svg" alt="">+(420) 702 127 286</a></li>
+                            <li><a href="#"><img src="images/icon-mail.svg" alt=""> info@cortexneurocentre.cz</a></li>
+                            <li class="hide-mobile"><a href="https://www.google.com/maps?ll=50.114671,14.467651&z=17&t=m&hl=en&gl=CZ&mapclient=embed&cid=12347777600494666582"><img src="images/icon-location.svg" alt="">Chlumčanského 497/5, 180 00 Praha 8</a></li>
+                        </ul>
+                    </div>
+                    <!-- Topbar Contact Information End -->
+                </div>
+
+                <div class="col-lg-3 col-md-0">
+                    <!-- Topbar Social Links Start -->
+                    <div class="topbar-social-links">
+                        <ul>
+                            <li><a href="https://www.facebook.com/cortexneurocentre"><i class="fa-brands fa-facebook-f"></i></a></li>
+                            <li><a href="https://www.instagram.com/cortexneurocentre/"><i class="fa-brands fa-instagram"></i></a></li>
+                            <li><a href="https://www.youtube.com/"><i class="fa-brands fa-youtube"></i></a></li>
+                        </ul>
+                    </div>
+                    <!-- Topbar Social Links End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Topbar Section End -->
+
+    <!-- Header Start -->
+	<header class="main-header">
+		<div class="header-sticky">
+			<nav class="navbar navbar-expand-lg">
+				<div class="container">
+					<!-- Logo Start -->
+					<a class="navbar-brand" href="./">
+						<img src="images/cortex-podklady/cortex-logo-horizontal3.png" width="350px" height="auto" alt="Logo">
+					</a>
+					<!-- Logo End -->
+
+					<!-- Main Menu Start -->
+					<div class="collapse navbar-collapse main-menu">
+                        <div class="nav-menu-wrapper">
+                            <ul class="navbar-nav mr-auto" id="menu">
+                                <li class="nav-item submenu"><a class="nav-link" href="#">O Nás</a>
+                                    <ul>                                        
+                                        <li class="nav-item"><a class="nav-link" href="service-single.html">Spolupracujeme</a></li>
+                                    </ul>
+                                </li>                                
+                                <li class="nav-item"><a class="nav-link" href="about.html">Náš Tým</a></li>
+                                <li class="nav-item submenu"><a class="nav-link" href="#">Terapie</a>
+                                    <ul>                                        
+                                        <li class="nav-item"><a class="nav-link" href="service-single.html">Intenzivní Terapie</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="blog.html">Ergoterapie</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="blog-single.html">Vývojová Poradna</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="therapist.html">Fyzioterapie pro Dospělé</a></li>                                        
+                                        <li class="nav-item"><a class="nav-link" href="therapist-single.html">Fyzioterapie Domů</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="testimonials.html">Fyzioterapie pro Děti</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item"><a class="nav-link" href="contact.html">Ceník</a></li>
+                                <li class="nav-item"><a class="nav-link" href="service.html">Blog</a></li>   
+                                <li class="nav-item"><a class="nav-link" href="contact.html">Kariéra</a></li>
+                                <li class="nav-item"><a class="nav-link" href="service.html">Kontakt</a></li>                              
+                            </ul>
+                        </div>
+                        <!-- Let’s Start Button Start -->
+                        <div class="header-btn d-inline-flex">
+                            <a href="#" class="btn-default">Rezervace</a>
+                        </div>
+                        <!-- Let’s Start Button End -->
+					</div>
+					<!-- Main Menu End -->
+					<div class="navbar-toggle"></div>
+				</div>
+			</nav>
+			<div class="responsive-menu"></div>
+		</div>
+	</header>
+	<!-- Header End -->
+     <!-- Page Header Start -->
+	<div class="page-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<!-- Page Header Box Start -->
+					<div class="page-header-box">
+						<h1 class="text-anime-style-2" data-cursor="-opaque">Ceník</h1>
+						<nav class="wow fadeInUp">
+							<ol class="breadcrumb">
+								<li class="breadcrumb-item"><a href="./">Domů</a></li>
+								<li class="breadcrumb-item active" aria-current="page">Ceník</li>
+							</ol>
+						</nav>
+					</div>
+					<!-- Page Header Box End -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Page Header End -->
+     
+
+
+
+    <div class="container mt-4">
+        <div class="year-selector text-center">
+            <button class="btn btn-success" onclick="showYear(2025)">Ceník 2025</button>
+        </div>
+    
+        <div id="year-2025" class="year-content" style="display: block;">
+
+    
+            <div class="accordion" id="accordionExample">
+                
+                <!-- Fyzioterapie -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Fyzioterapie
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Služba</th>
+                                        <th>Cena</th>
+                                        <th>Doba trvání</th>
+                                        <th>Věk</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Baby therapy - ambulance dětí</td>
+                                        <td>1 500 Kč</td>
+                                        <td>do 50 minut</td>
+                                        <td>0 - 2 roky</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Junior therapy - ambulance dětí</td>
+                                        <td>1 500 Kč</td>
+                                        <td>do 50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ambulance dospělí</td>
+                                        <td>1 500 Kč</td>
+                                        <td>50 minut</td>
+                                        <td>15+</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fyzioterapie domů</td>
+                                        <td>2 000 Kč</td>
+                                        <td>50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Ergoterapie -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Ergoterapie
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Služba</th>
+                                        <th>Cena</th>
+                                        <th>Doba trvání</th>
+                                        <th>Věk</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Vstupní konzultace</td>
+                                        <td>1 000 Kč</td>
+                                        <td>do 45 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ergoterapie</td>
+                                        <td>1 500 Kč</td>
+                                        <td>do 50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Vývojová poradna -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Vývojová poradna
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Služba</th>
+                                        <th>Cena</th>
+                                        <th>Doba trvání</th>
+                                        <th>Věk</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Vývojová poradna</td>
+                                        <td>1 500 Kč</td>
+                                        <td>30 - 50 minut</td>
+                                        <td>0 - 2 roky</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Vývojový balíček</td>
+                                        <td>6 000 Kč</td>
+                                        <td>Preventivní vývojový program: vstupní vyšetření + 4x terapie I.-VI. trimenon + SCODIAC screening hlavičky</td>
+                                        <td>0 - 2 roky</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Intenzivní terapie -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            Intenzivní terapie
+                        </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Služba</th>
+                                        <th>Cena</th>
+                                        <th>Doba trvání</th>
+                                        <th>Věk</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Vstupní konzultace</td>
+                                        <td>1 000 Kč</td>
+                                        <td>do 45 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Intenzivní terapie</td>
+                                        <td>1 500 Kč/hod</td>
+                                        <td>50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Pomocný terapeut</td>
+                                        <td>750 Kč</td>
+                                        <td>50 minut</td>
+                                        <td>-</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+    
+                <!-- Speciální balíčky -->
+                <div class="accordion-item">
+                    <h2 class="accordion-header">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                            Speciální balíčky
+                        </button>
+                    </h2>
+                    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Služba</th>
+                                        <th>Cena</th>
+                                        <th>Doba trvání</th>
+                                        <th>Věk</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>5x Ergoterapie</td>
+                                        <td>5 000 Kč</td>
+                                        <td>5x 50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fyzio ambulance děti + Ergoterapie děti</td>
+                                        <td>2 500 Kč</td>
+                                        <td>2x 50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                    <tr>
+                                        <td>10x Ergoterapie</td>
+                                        <td>8 000 Kč</td>
+                                        <td>10x 50 minut</td>
+                                        <td>2 - 15 let</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+    
+            </div> <!-- End Accordion -->
+        </div> <!-- End Year Content -->
+    </div> <!-- End Container -->
+
+</div>
+<!-- Contact Form Start -->
+<div class="contact-us-form">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <!-- Contact Us Image Start -->
+                 <div class="contact-us-img">
+                    <figure class="reveal image-anime">
+                        <img src="images/kontakt.png" alt="">
+                    </figure>
+                 </div>
+                <!-- Contact Us Image End -->
+            </div>
+            <div class="col-lg-6">
+                <div class="contact-form">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">Kontaktujte nás</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Spojte</span> se s námi</h2>
+                    </div>
+                    <!-- Section Title End -->
+
+                    <form id="contactForm" action="#" method="POST" data-toggle="validator" class="wow fadeInUp" data-wow-delay="0.25s">
+                        <div class="row">
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="name" class="form-control" id="fullname" placeholder="Zadejte jméno" required="">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="email" name="email" class="form-control" id="email" placeholder="Zadejte E-mail" required="">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="phone" class="form-control" id="phone" placeholder="Mobil" required="">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                
+                            <div class="form-group col-md-6 mb-4">
+                                <input type="text" name="subject" class="form-control" id="subject" placeholder="Předmět zprávy" required="">
+                                <div class="help-block with-errors"></div>
+                            </div>
+                
+                            <div class="form-group col-md-12 mb-5">
+                                <textarea name="msg" class="form-control" id="msg" rows="5" placeholder="Vaše zpráva" required=""></textarea>
+                                <div class="help-block with-errors"></div>
+                            </div>
+                
+                            <div class="col-md-12">
+                                <button type="submit" class="btn-default disabled">Odeslat zprávu</button>
+                                <div id="msgSubmit" class="h3 hidden"></div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact Form End -->
+
+    <!-- Our Scrolling Ticker Section Start -->
+    <div class="our-scrolling-ticker">
+        <!-- Scrolling Ticker Start -->
+        <div class="scrolling-ticker-box">
+            <div class="scrolling-content">
+                <span><img src="images/icon-sparkles.svg" alt="">V případě potřeby volejte +420 702 127 286</span>
+                <span><img src="images/icon-sparkles.svg" alt="">Dotazy směřujte na : info@cortexneurocentre.cz</span>
+                <a href="https://my.medevio.cz/cortex-neuro-centre"><span><img src="images/icon-sparkles.svg" alt="">Objednejte se ihned!</span></a>
+                <span><img src="images/icon-sparkles.svg" alt="">Otevírací doba : Po - Pá: 8:00 - 17:00 </span>
+            </div>
+
+            <div class="scrolling-content">
+                <span><img src="images/icon-sparkles.svg" alt="">V případě potřeby volejte +420 702 127 286</span>
+                <span><img src="images/icon-sparkles.svg" alt="">Dotazy směřujte na : info@cortexneurocentre.cz</span>
+                <a href="https://my.medevio.cz/cortex-neuro-centre"><span><img src="images/icon-sparkles.svg" alt="">Objednejte se ihned!</span></a>
+                <span><img src="images/icon-sparkles.svg" alt="">Otevírací doba : Po - Pá: 8:00 - 17:00 </span>
+            </div>
+        </div>
+    </div>
+	<!-- Scrolling Ticker Section End -->  
+
+    <!-- Footer Start -->
+     <footer class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <!-- About Footer Start -->
+                    <div class="about-footer">
+                        <!-- Footer Logo Start -->
+                        <div class="footer-logo">
+                            <img src="images/cortex-podklady/cortex-logo-horizontal3.png" alt="">
+                        </div>
+                        <!-- Footer Logo End -->
+
+                        <!-- About Footer Content Start -->
+                        <div class="about-footer-content">
+                            <p>Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
+                        </div>
+                        <!-- Footer Social Links Start -->
+                        <div class="footer-social-links">
+                            <ul>
+                                <li><a href="https://www.facebook.com/cortexneurocentre"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/cortexneurocentre/"><i class="fa-brands fa-instagram"></i></a></li>
+                                <li><a href="https://www.youtube.com/"><i class="fa-brands fa-youtube"></i></a></li>                                                               
+                            </ul>
+                        </div>
+                        <!-- Footer Social Links End -->
+                        
+                    </div>
+                    <!-- About Footer End -->
+                </div>
+                
+                <div class="col-lg-3 col-md-4">
+                    <!-- About Links Start -->
+                    <div class="about-working-hour">
+                        <h3>Otevírací doba</h3>
+                        <ul>
+                            <li>Po - Pá: 8:00 - 17:00</li>
+                            <li>(dle předchozího objednání)</li>
+                            <li>Víkendy - Zavřeno</li>
+                        </ul>
+                    </div>
+                    <!-- About Links End -->
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <!-- About Links Start -->
+                    <div class="about-service-list">
+                        <h3>Terapie</h3>
+                        <ul>
+                            <li><a href="#">Ergoterapie</a></li>
+                            <li><a href="#">Fyzioterapie</a></li>
+                            <li><a href="#">Vývojová poradna</a></li>
+                        </ul>
+                    </div>
+                    <!-- About Links End -->
+                </div>
+
+                <div class="col-lg-3 col-md-4">
+                    <!-- About Links Start -->
+                    <div class="footer-contact">
+                        <h3>Kontakt</h3>
+                        <!-- Footer Contact Details Start -->
+                        <div class="footer-contact-details">
+                            <!-- Footer Info Box Start -->
+                            <div class="footer-info-box">
+                                <div class="icon-box">
+                                    <img src="images/icon-phone.svg" alt="">
+                                </div>
+                                <div class="footer-info-box-content">
+                                    <p>+(420) 702 127 286</p>
+                                </div>                                
+                            </div>
+                            <!-- Footer Info Box End -->
+
+                            <!-- Footer Info Box Start -->
+                            <div class="footer-info-box">
+                                <div class="icon-box">
+                                    <img src="images/icon-mail.svg" alt="">
+                                </div>
+                                <div class="footer-info-box-content">
+                                    <p>info@cortexneurocentre.cz</p>
+                                </div>
+                            </div>
+                            <!-- Footer Info Box End -->
+
+                            <!-- Footer Info Box Start -->
+                            <div class="footer-info-box">
+                                <div class="icon-box">
+                                    <img src="images/icon-location.svg" alt="">
+                                </div>
+                                <div class="footer-info-box-content">
+                                    <p>Chlumčanského 497/5, 180 00 Praha 8</p>
+                                </div>                                
+                            </div>
+                            <!-- Footer Info Box End -->
+                        </div>
+                        <!-- Footer Contact Details End -->
+                    </div>
+                    <!-- About Links End -->
+                </div>
+            </div>
+
+            <!-- Footer Copyright Section Start -->
+            <div class="footer-copyright">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-6">
+                        <!-- Footer Copyright Start -->
+                        <div class="footer-copyright-text">
+                            <p>Copyright 2024 Cortex Neuro Centre s.r.o - všechna práva vyhrazena</p>
+                        </div>
+                        <!-- Footer Copyright End -->
+                    </div>
+
+                    <div class="col-lg-6 col-md-6">
+                        <!-- Footer Social Link Start -->
+                        <div class="footer-links">
+                            <ul>
+                                <li><a href="#">O Nás</a></li>
+                                <li><a href="#">Terapie</a></li>
+                                <li><a href="#">Kontakt</a></li>
+                            </ul>
+                        </div>
+                        <!-- Footer Social Link End -->
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Copyright Section End -->
+        </div>
+     </footer>
+    <!-- Footer End -->
+    
+    <!-- Jquery Library File -->
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <!-- Bootstrap js file -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Validator js file -->
+    <script src="js/validator.min.js"></script>
+    <!-- SlickNav js file -->
+    <script src="js/jquery.slicknav.js"></script>
+    <!-- Swiper js file -->
+    <script src="js/swiper-bundle.min.js"></script>
+    <!-- Counter js file -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <!-- Magnific js file -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <!-- SmoothScroll -->
+    <script src="js/SmoothScroll.js"></script>
+    <!-- Parallax js -->
+    <script src="js/parallaxie.js"></script>
+    <!-- MagicCursor js file -->
+    <script src="js/gsap.min.js"></script>
+    <script src="js/magiccursor.js"></script>
+    <!-- Text Effect js file -->
+    <script src="js/SplitText.js"></script>
+    <script src="js/ScrollTrigger.min.js"></script>
+    <!-- YTPlayer js File -->
+    <script src="js/jquery.mb.YTPlayer.min.js"></script>
+    <!-- Wow js file -->
+    <script src="js/wow.js"></script>
+    <!-- Main Custom js file -->
+    <script src="js/function.js"></script>
+
+</body>
+</html>
