@@ -24,7 +24,7 @@
                                             <!-- Section Title Start -->
                                             <div class="section-title">
                                                 <h3 class="wow fadeInUp">Vítejte v</h3>
-                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Bengr</h1>
+                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
                                                 <p class="wow fadeInUp" data-wow-delay="0.25s">je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
                                             </div>
                                             <!-- Section Title End -->
@@ -63,7 +63,7 @@
                                             <!-- Section Title Start -->
                                             <div class="section-title">
                                                 <h3 class="wow fadeInUp">Vítejte v</h3>
-                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Žengr Lengr</h1>
+                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
                                                 <p class="wow fadeInUp" data-wow-delay="0.25s">je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
                                             </div>
                                             <!-- Section Title End -->
