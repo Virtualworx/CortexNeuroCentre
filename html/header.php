@@ -19,6 +19,8 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
     <!-- Page Title (Změna "Index" na "Domů") -->
     <title><?php echo $pageTitle; ?> | CortexNeuroCentre</title>
 
+    <link href="css/kamel.css" rel="stylesheet" media="screen">
+
     <!-- Favicon Icon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
     <!-- Google Fonts Css -->
@@ -41,7 +43,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
     <link rel="stylesheet" href="css/mousecursor.css">
     <!-- Main Custom Css -->
     <link href="css/custom.css" rel="stylesheet" media="screen">
-     <link href="css/kamel.css" rel="stylesheet" media="screen">
+
 </head>
 <body>
 
