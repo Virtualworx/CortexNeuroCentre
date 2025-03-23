@@ -2,9 +2,7 @@
 <?php include 'header.php'; ?>
      
 
-<!-- page start -->
-
-    <div class="container mt-4">
+<div class="container mt-4">
         <div class="year-selector text-center">
             <button class="btn btn-success" onclick="showYear(2025)">Ceník 2025</button>
         </div>

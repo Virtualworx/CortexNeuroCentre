@@ -275,7 +275,144 @@
     </div>
     </div>
 <!--  About Us End -->
+    <!-- Gallery Carousel Section Start -->
+    <div class="gallery-carousel">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Scrolling Content Start -->
+                    <div class="gallery-carousel-box">
+                        <div class="gallery-scrolling-content">
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-1.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
 
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-2.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-3.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-4.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-5.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-6.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+                        </div>
+
+                        <div class="gallery-scrolling-content">
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-1.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-2.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-3.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-4.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-5.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+
+                            <!-- Image Item Start -->
+                            <div class="gallery-image">
+                                <figure class="image-anime">
+                                    <div class="image-container">
+                                        <img src="images/cortex-podklady/ss-6.jpeg" alt="">
+                                    </div>
+                                </figure>
+                            </div>
+                            <!-- Image Item End -->
+                        </div>
+                    </div>
+                    <!-- Scrolling Content End -->
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- Gallery Carousel Section End -->
     
 
     <!-- Our Service Start -->
@@ -493,12 +630,22 @@
             <div class="col-lg-6">
                 <!-- Solution Plan Image Start -->
                 <div class="solution-plan-image">
-                    <figure class="image-anime reveal">
-                        <div class="image-container">
-                            <img src="images/cortex-podklady/ss-2.jpeg" alt="Jak to u nás probíhá">
+                        <div class="solution-plan-img-1">
+                            <figure class="image-anime reveal">
+                                <div class="image-container2">
+                                    <img src="images/cortex-podklady/ss-2.jpeg" alt="">
+                                </div>
+                            </figure>
                         </div>
-                    </figure>
-                </div>
+
+                        <div class="solution-plan-img-2">
+                            <figure class="image-anime reveal">
+                                <div class="image-container2">
+                                    <img src="images/cortex-podklady/ss-6.jpeg" alt="">
+                                </div>
+                            </figure>
+                        </div>
+                    </div>
                 <!-- Solution Plan Image End -->
             </div>
 
