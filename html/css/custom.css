@@ -42,16 +42,16 @@
 /************************************/	
 
 :root{
-	--primary-color			: #153C33;
+	--primary-color			: #007967;
 	--secondary-color		: #E6EFED;
 	--text-color			: #153C33B3;
-	--accent-color			: #619E90;
+	--accent-color			: #CFA748;
 	--white-color			: #FFFFFF;
 	--divider-color			: #FFFFFF26;
 	--dark-divider-color	: #153C331A;
 	--error-color			: rgb(230, 87, 87);
-	--accent-font			: "Archivo", sans-serif;
-	--default-font			: "DM Sans", sans-serif;
+	--accent-font			: "Semplicita Pro", sans-serif;
+	--default-font			: "Semplicita Pro", sans-serif;
 }
 
 /************************************/
@@ -217,7 +217,7 @@ body{
 	width: 36px;
 	height: 36px;
 	border-radius: 50%;
-	background-color: var(--primary-color);
+	background-color: var(--accent-color);
 	background-image: url('../images/arrow-white.svg');
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -240,7 +240,7 @@ body{
 	width: 0;
 	height: 102%;
 	border-radius: 99px;
-    background: var(--primary-color);
+    background: var(--accent-color);
     transition: all 0.4s ease-in-out;
 	z-index: -1;
 }
@@ -259,7 +259,7 @@ body{
 }
 
 .btn-default.btn-highlighted::before{
-	background-color: var(--primary-color);
+	background-color: var(--accent-color);
 }
 
 .btn-default.btn-highlighted::after{
@@ -296,7 +296,7 @@ body{
 	right: 0;
 	bottom: 0;
 	z-index: 1000;
-	background-color: var(--accent-color);
+	background-color: var(--primary-color);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -450,6 +450,7 @@ body{
 .topbar-social-links{
 	text-align: right;
 }
+
 
 .topbar-social-links ul{
 	list-style: none;

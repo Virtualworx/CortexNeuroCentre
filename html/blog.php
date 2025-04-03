@@ -9,9 +9,9 @@
                     <!-- Blog Item Start -->
                     <div class="blog-item wow fadeInUp">
                         <!-- Post Featured Image Start-->
-                        <div class="post-featured-image" data-cursor-text="View">
+                        <div class="post-featured-image" data-cursor-text="Zobrazit">
                             <figure>
-                                <a href="#" class="image-anime">
+                                <a href="blog-eva-nemckova.php" class="image-anime">
                                     <img src="images/17.-Foto-Nemckova-s-Pauli-scaled.jpg" alt="">
                                 </a>
                             </figure>
@@ -22,13 +22,13 @@
                         <div class="post-item-content">
                             <!-- post Item Body Start -->
                             <div class="post-item-body">
-                                <h2><a href="#">„Neúspěšně jsem hledala jakékoli pomůcky a informace o životě s dítětem s postižením, a tak jsem se to rozhodla změnit.“ Říká Eva Nemčková, maminka dospělé dcery, která žije s těžkou formou Dětské mozkové obrny a také podnikatelka, která založila filmu s pomůckami pro osoby s handicapem</a></h2>
+                                <h2><a href="blog-eva-nemckova.php">Bohužel se řadíme mezi rodiny, u kterých selhal odborný personál porodnice. </a></h2>
                             </div>
                             <!-- Post Item Body End-->
 
                             <!-- Post Item Footer Start-->
                             <div class="post-item-footer">
-                                <a href="#" class="readmore-btn">Zobrazit více</a>
+                                <a href="blog-eva-nemckova.php" class="readmore-btn">Zobrazit více</a>
                             </div>
                             <!-- Post Item Footer End-->
                         </div>
@@ -41,9 +41,9 @@
                     <!-- Blog Item Start -->
                     <div class="blog-item wow fadeInUp" data-wow-delay="0.2s">
                         <!-- Post Featured Image Start-->
-                        <div class="post-featured-image" data-cursor-text="View">
+                        <div class="post-featured-image" data-cursor-text="Zobrazit">
                             <figure>
-                                <a href="#" class="image-anime">
+                                <a href="blog-eva-holikova.php" class="image-anime">
                                     <img src="images/14.-Foto-Holikova-cela-rodina-CROPPED.jpeg" alt="">
                                 </a>
                             </figure>
@@ -54,13 +54,13 @@
                         <div class="post-item-content">
                             <!-- post Item Body Start -->
                             <div class="post-item-body">
-                                <h2><a href="#">„Ela nás naučila trpělivosti. Řešit opravdu důležité věci. Být vděční a vážit si maličkostí.“ Říká Barbora Holíková, maminka holčičky se Spinální muskulární atrofií, která i přes předpovědi lékařů začíná chodit</a></h2>
+                                <h2><a href="blog-eva-holikova.php">Srpen je měsícem zvýšení povědomí o onemocnění SMA – Spinální muskulární atrofie.</a></h2>
                             </div>
                             <!-- Post Item Body End-->
 
                             <!-- Post Item Footer Start-->
                             <div class="post-item-footer">
-                                <a href="#" class="readmore-btn">Zobrazit více</a>
+                                <a href="blog-eva-holikova.php" class="readmore-btn">Zobrazit více</a>
                             </div>
                             <!-- Post Item Footer End-->
                         </div>
@@ -73,9 +73,9 @@
                     <!-- Blog Item Start -->
                     <div class="blog-item wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Post Featured Image Start-->
-                        <div class="post-featured-image" data-cursor-text="View">
+                        <div class="post-featured-image" data-cursor-text="Zobrazit">
                             <figure>
-                                <a href="#" class="image-anime">
+                                <a href="blog-vaclav-uher.php" class="image-anime">
                                     <img src="images/16.-Foto-Uher-jizda-Electric-eccentric.jpeg" alt="">
                                 </a>
                             </figure>
@@ -86,13 +86,13 @@
                         <div class="post-item-content">
                             <!-- post Item Body Start -->
                             <div class="post-item-body">
-                                <h2><a href="#">„Pomohlo mi odklonit svou pozornost od toho, co bylo, a soustředit se na to, co je.“ Říká Václav Uher, kterému vážný úraz obrátil život vzhůru nohama. Přes dvacet let se pohybuje na vozíku, největší svobodu mu dává ten elektrický. Cestuje a nejen o svých cestách píše blog.</a></h2>
+                                <h2><a href="blog-vaclav-uher.php">Poslední den, kdy jsem chodil, byl 4. prosinec 2001.</a></h2>
                             </div>
                             <!-- Post Item Body End-->
 
                             <!-- Post Item Footer Start-->
                             <div class="post-item-footer">
-                                <a href="#" class="readmore-btn">Zobrazit více</a>
+                                <a href="blog-vaclav-uher.php" class="readmore-btn">Zobrazit více</a>
                             </div>
                             <!-- Post Item Footer End-->
                         </div>
@@ -105,9 +105,9 @@
                     <!-- Blog Item Start -->
                     <div class="blog-item wow fadeInUp" data-wow-delay="0.6s">
                         <!-- Post Featured Image Start-->
-                        <div class="post-featured-image" data-cursor-text="View">
+                        <div class="post-featured-image" data-cursor-text="Zobrazit">
                             <figure>
-                                <a href="#" class="image-anime">
+                                <a href="blog-jindra-landova.php" class="image-anime">
                                     <img src="images/13.-Foto-Landova-s-dcerou.jpg" alt="">
                                 </a>
                             </figure>
@@ -118,13 +118,13 @@
                         <div class="post-item-content">
                             <!-- post Item Body Start -->
                             <div class="post-item-body">
-                                <h2><a href="#">„Cestování je každým rokem náročnější. Dcera má diagnostikované progresivní onemocnění, při kterém jí postupně ochabují všechny svaly. Nevíme, jak a zda budeme moct cestovat v budoucnu, takže si nyní záměrně vybíráme destinace, které jsou hodně bariérové. Když je dobrá vůle, vše se dá přizpůsobit.“ Říká Jindra Landová, maminka dívky se svalovou dystrofií, se kterou cestují po celém světě, a zakladatelkou organizace Obyčejný život, z. s.</a></h2>
+                                <h2><a href="blog-jindra-landova.php">Začala chodit ve třinácti měsících, ale nikdy se nenaučila chodit do schodů. To bylo velmi divné. Sama se také nedokázala zvednout ze země.</a></h2>
                             </div>
                             <!-- Post Item Body End-->
 
                             <!-- Post Item Footer Start-->
                             <div class="post-item-footer">
-                                <a href="#" class="readmore-btn">Zobrazit více</a>
+                                <a href="blog-jindra-landova.php" class="readmore-btn">Zobrazit více</a>
                             </div>
                             <!-- Post Item Footer End-->
                         </div>
@@ -137,9 +137,9 @@
                     <!-- Blog Item Start -->
                     <div class="blog-item wow fadeInUp" data-wow-delay="0.8s">
                         <!-- Post Featured Image Start-->
-                        <div class="post-featured-image" data-cursor-text="View">
+                        <div class="post-featured-image" data-cursor-text="Zobrazit">
                             <figure>
-                                <a href="#" class="image-anime">
+                                <a href="blog-prager-vozik.php" class="image-anime">
                                     <img src="images/15.-Prager-foto-cestovani-scaled.jpg" alt="">
                                 </a>
                             </figure>
@@ -150,13 +150,13 @@
                         <div class="post-item-content">
                             <!-- post Item Body Start -->
                             <div class="post-item-body">
-                                <h2><a href="#">„Všechno, co jsem v životě dokázal bych nezvládl sám. Vždy jsem potřeboval pomoc druhé osoby. Ať to byla maminka, manželka nebo profesionální asistent. Není však možné, aby rodiny trvale nahrazovali pomoc od státu. Proto na problematiku lidí závislých na pomoci druhé osoby s kolegy poukazujeme.“ Říká Michal Prager, pacient s onemocněním Spinální muskulární atrofie a také bývalý politik, sebeobhájce a spoluzakladatel organizace Pestrá o.p.s.</a></h2>
+                                <h2><a href="blog-prager-vozik.php">Občas jsem někde popošel. Většinu času jsem ale už seděl na vozíku. Zhoršování mělo “přirozený” průběh.</a></h2>
                             </div>
                             <!-- Post Item Body End-->
 
                             <!-- Post Item Footer Start-->
                             <div class="post-item-footer">
-                                <a href="#" class="readmore-btn">Zobrazit více</a>
+                                <a href="blog-prager-vozik.php" class="readmore-btn">Zobrazit více</a>
                             </div>
                             <!-- Post Item Footer End-->
                         </div>
@@ -169,9 +169,9 @@
                     <!-- Blog Item Start -->
                     <div class="blog-item wow fadeInUp" data-wow-delay="1s">
                         <!-- Post Featured Image Start-->
-                        <div class="post-featured-image" data-cursor-text="View">
+                        <div class="post-featured-image" data-cursor-text="Zobrazit">
                             <figure>
-                                <a href="#" class="image-anime">
+                                <a href="blog-iveta-sochorova.php" class="image-anime">
                                     <img src="images/11.-Sochorova-foto-sourozenci.jpg" alt="">
                                 </a>
                             </figure>
@@ -182,13 +182,13 @@
                         <div class="post-item-content">
                             <!-- post Item Body Start -->
                             <div class="post-item-body">
-                                <h2><a href="#">„Největší předsudky jsou v případě, kdy Sáru někdo nezná. Vidí před sebou jen diagnózu a svou představu o ní. Nevnímá jí jako konkrétní dítě.“ říká Iveta Sochorová, maminka dcery s Downovým syndromem, která o životě s tímto syndromem píše blog Sářin hlas</a></h2>
+                                <h2><a href="blog-iveta-sochorova.php">Každý jsme výjimečný.</a></h2>
                             </div>
                             <!-- Post Item Body End-->
 
                             <!-- Post Item Footer Start-->
                             <div class="post-item-footer">
-                                <a href="#" class="readmore-btn">Zobrazit více</a>
+                                <a href="blog-iveta-sochorova.php" class="readmore-btn">Zobrazit více</a>
                             </div>
                             <!-- Post Item Footer End-->
                         </div>
