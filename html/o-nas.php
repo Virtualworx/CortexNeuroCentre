@@ -320,7 +320,7 @@
                     <div class="quality-treatment-video" data-cursor-text="Přehrát">
                         <!-- Video Image Start -->
                         <div class="video-image">
-                            <a href="https://www.youtube.com/embed/W1ro8Jy5S8c?si=iqxvU22lbzd0qaml class="popup-video">
+                            <a href="https://youtu.be/ws1-_G-GPZ4 class="popup-video">
                                 <figure class="image-anime">
                                     <img src="images/cortex-podklady/c-video-def.png" alt="">
                                 </figure>
@@ -330,7 +330,7 @@
                     
                         <!-- Video Play Button Start -->
                         <div class="video-play-button">
-                            <a href="https://www.youtube.com/embed/W1ro8Jy5S8c?si=iqxvU22lbzd0qaml" class="popup-video">
+                            <a href="https://youtu.be/ws1-_G-GPZ4" class="popup-video">
                                 <i class="fa-solid fa-play"></i>
                             </a>
                         </div>
