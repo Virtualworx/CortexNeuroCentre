@@ -42,16 +42,16 @@
 /************************************/	
 
 :root{
-	--primary-color			: #007967;
+	--primary-color			: #153C33;
 	--secondary-color		: #E6EFED;
 	--text-color			: #153C33B3;
-	--accent-color			: #CFA748;
+	--accent-color			: #619E90;
 	--white-color			: #FFFFFF;
 	--divider-color			: #FFFFFF26;
 	--dark-divider-color	: #153C331A;
 	--error-color			: rgb(230, 87, 87);
-	--accent-font			: "Semplicita Pro", sans-serif;
-	--default-font			: "Semplicita Pro", sans-serif;
+	--accent-font			: "Archivo", sans-serif;
+	--default-font			: "DM Sans", sans-serif;
 }
 
 /************************************/
