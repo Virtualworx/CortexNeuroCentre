@@ -175,9 +175,13 @@
     <script src="js/function.js"></script>
     <script>
     window.addEventListener('load', function () {
+        // Zkontroluj, zda už modal byl zobrazen
+        if (!localStorage.getItem('welcomeModalShown')) {
         setTimeout(function () {
-        var myModal = new bootstrap.Modal(document.getElementById('welcomeModal'));
-        myModal.show();
-        }, 3000); // 5000 ms = 5 seconds
+            var myModal = new bootstrap.Modal(document.getElementById('welcomeModal'));
+            myModal.show();
+            localStorage.setItem('welcomeModalShown', 'true'); // uloží informaci o zobrazení
+        }, 3000); // 3000 ms = 3 sekundy
+        }
     });
     </script>
