@@ -159,5 +159,41 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
     </div>
     <!-- Page Header End -->
     <?php endif; ?>
+
+
+<!-- WhatsApp Chat Bubble -->
+<a href="https://wa.me/420702127286" target="_blank" class="whatsapp-bubble">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
+</a>
+
+<style>
+    .whatsapp-bubble {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 1000;
+        width: 60px;
+        height: 60px;
+        background-color: #25d366;
+        border-radius: 50%;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .whatsapp-bubble img {
+        width: 35px;
+        height: 35px;
+    }
+
+    .whatsapp-bubble:hover {
+        background-color: #1ebe57;
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+    }
+</style>
+
+
+</script>
 </body>
 </html>
