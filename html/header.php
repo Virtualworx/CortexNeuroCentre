@@ -163,7 +163,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
 
 <!-- WhatsApp Chat Bubble -->
 <a href="https://wa.me/420702127286" target="_blank" class="whatsapp-bubble">
-    <img src="images/cortex-podklady/whatsapp-logo.png" alt="WhatsApp" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
 </a>
 
 <style>
