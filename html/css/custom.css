@@ -304,9 +304,9 @@ body{
 
 .loading-container,
 .loading{
-	height: 100px;
+	height: 250px;
 	position: relative;
-	width: 100px;
+	width: 250px;
 	border-radius: 100%;
 }
 
@@ -330,7 +330,7 @@ body{
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	max-width: 66px;
+	max-width: 132px;
 	transform: translate(-50%, -50%);
 }
 
@@ -5106,4 +5106,11 @@ header.main-header .header-sticky.active{
 	.error-page-content-heading h2{
 		font-size: 26px;
 	}
+}
+ul.navbar-nav .nav-link {
+	padding: 0.5rem !important;
+  }
+
+#ks-btn-gold {
+	background-color: #c39824;
 }

@@ -26,12 +26,7 @@
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Naše metody zahrnují hravé aktivity a terapeutické cvičení, které nejenže pomáhají zlepšovat motorické dovednosti, ale také podporují sociální interakce, emocionální pohodu a celkový rozvoj dítěte. Jsme odhodláni poskytovat komplexní a kvalitní péči, která posiluje děti na jejich cestě k dosažení maximálního potenciálu.</p>
                             <ul class="wow fadeInUp" data-wow-delay="1s">
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Pokud hledáte odbornou péči pro svého malého pacienta s neurologickou diagnózou, náš program ergoterapie je tu pro vás. Kontaktujte nás pro další informace a možnost konzultace. Společně můžeme otevřít cestu k lepšímu zítřku pro vaše dítě.</p>
-                            <ul class="wow fadeInUp" data-wow-delay="1s">
-                                <li>Vhodné pro všechny pacienty</li>
-                                <li>Vhodné pro neurologické pacienty</li>
-                                <li>Věk: 2-15 let</li>
 
-                            </ul>
                             
                              <br></br>
 
@@ -73,26 +68,17 @@
                     <div class="service-sidebar">
                         <!-- Service Categories List Start -->
                         <div class="service-catagery-list wow fadeInUp">
-                            <h3>our services</h3>
+                            <h3>pro koho je terapie vhodná?</h3>
                             <ul>
-                                <li><a href="#">manual therapy</a></li>
-                                <li><a href="#">chronic pain</a></li>
-                                <li><a href="#">hand therapy</a></li>
-                                <li><a href="#">sports therapy</a></li>
-                                <li><a href="#">cupping therapy</a></li>
+                                <li>Vhodné pro všechny pacienty</li>
+                                <li>Vhodné pro neurologické pacienty</li>
+                                <li>Věk: 2-15 let</li>
                             </ul>
                         </div>
                         <!-- Service Categories List End -->
 
                         <!-- Opening Hour Section Start -->
-                        <div class="opening-hour-section wow fadeInUp" data-wow-delay="0.25s">
-                            <h3>opening hours</h3>
-                            <ul>
-                                <li>mon to fri : 10:00 to 6:00</li>
-                                <li>sat : 10:00AM To 3:00PM</li>
-                                <li>sun : closed</li>
-                            </ul>
-                        </div>
+
                         <!-- Opening Hour Section End -->
 
                         <!-- Sidebar Cta Box Start -->
@@ -103,14 +89,14 @@
                             </div>
 
                             <div class="cta-content">
-                                <h3>Ready to Start Your Journey to Recovery?</h3>
-                                <p>Contact us today to schedule your initial consultation and take the first step towards a pain-free life.</p>
+                                <h3>rezervujte si ergoterapii ještě dnes</h3>
+
                             </div>
                             <!-- Cta Content End -->
 
                             <!-- Cta Appointment Button Start -->
                             <div class="cta-appointment-btn">
-                                <a href="" class="btn-default">book appointment</a>
+                                <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default">REZERVACE</a>
                             </div>
                         <!-- Cta Appointment Button End -->
                         </div>

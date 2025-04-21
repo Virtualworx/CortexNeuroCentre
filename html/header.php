@@ -102,30 +102,30 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                     <div class="collapse navbar-collapse main-menu">
                         <div class="nav-menu-wrapper">
                             <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item submenu"><a class="nav-link" href="o-nas.php">O Nás</a>
+                                <li class="nav-item submenu"><a class="nav-link" href="o-nas.php">O NÁS</a>
                                     <ul>
-                                        <li class="nav-item"><a class="nav-link" href="spolupracujeme.php">Spolupracujeme</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="spolupracujeme.php">SPOLUPRACUJEME</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a class="nav-link" href="nas-tym.php">Náš Tým</a></li>
-                                <li class="nav-item submenu"><a class="nav-link" href="terapie.php">Terapie</a>
+                                <li class="nav-item"><a class="nav-link" href="nas-tym.php">NÁŠ TÝM</a></li>
+                                <li class="nav-item submenu"><a class="nav-link" href="terapie.php">TERAPIE</a>
                                     <ul>
-                                        <li class="nav-item"><a class="nav-link" href="intenzivni-terapie.php">Intenzivní Terapie</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="ergoterapie.php">Ergoterapie</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="vyvojova-poradna.php">Vývojová Poradna</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="fyzioterapie-pro-deti.php">Fyzioterapie pro Děti</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="fyzioterapie-domu.php">Fyzioterapie Domů</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="intenzivni-terapie.php">INTENZIVNÍ TERAPIE</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="ergoterapie.php">ERGOTERAPIE</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="vyvojova-poradna.php">VÝVOJOVÁ PORADNA</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="fyzioterapie-pro-deti.php">FYZIOTERAPIE PRO DĚTI</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="fyzioterapie-domu.php">FYZIOTERAPIE DOMŮ</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a class="nav-link" href="cenik.php">Ceník</a></li>
-                                <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
-                                <li class="nav-item"><a class="nav-link" href="kariera.php">Kariéra</a></li>
-                                <li class="nav-item"><a class="nav-link" href="kontakt.php">Kontakt</a></li>
+                                <li class="nav-item"><a class="nav-link" href="cenik.php">CENÍK</a></li>
+                                <li class="nav-item"><a class="nav-link" href="blog.php">BLOG</a></li>
+                                <li class="nav-item"><a class="nav-link" href="kariera.php">KARIÉRA</a></li>
+                                <li class="nav-item"><a class="nav-link" href="kontakt.php">KONTAKT</a></li>
                             </ul>
                         </div>
                         <!-- Let’s Start Button Start -->
                         <div class="header-btn d-inline-flex">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" target="_blank" class="btn-default">Rezervace</a>
+                            <a href="https://my.medevio.cz/cortex-neuro-centre" target="_blank" class="btn-default">VSTUPNÍ KONZULTACE</a>
                         </div>
                         <!-- Let’s Start Button End -->
                     </div>

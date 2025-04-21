@@ -173,3 +173,11 @@
     <script src="js/wow.js"></script>
     <!-- Main Custom js file -->
     <script src="js/function.js"></script>
+    <script>
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+        var myModal = new bootstrap.Modal(document.getElementById('welcomeModal'));
+        myModal.show();
+        }, 3000); // 5000 ms = 5 seconds
+    });
+    </script>

@@ -1,5 +1,22 @@
 <!DOCTYPE html>
 <?php include 'header.php'; ?>
+<div class="modal fade" id="welcomeModal" tabindex="-1" aria-labelledby="welcomeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="welcomeModalLabel">Vítejte</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <h2 class="fs-5">Vstupní konzultace</h2>
+        <p class="text-center">rezervujte si vstupní konzultaci ještě dnes <a href="terapie.php" class="btn btn-default d-block mx-auto mt-3 text-center">REZERVOVAT</a></p> 
+        <hr>
+        <h2 class="fs-5">Stále přijímáme nové klienty</h2>
+        <a href="terapie.php" class="btn btn-default d-block mx-auto mt-3 text-center">VSTUPNÍ KONZULTACE</a>
+      </div>
+    </div>
+  </div>
+</div>
 
     <!-- Hero Section Start -->
     <div class="hero bg-image hero-slider">
@@ -90,70 +107,124 @@
     </div>
     <!-- Hero Section End -->
 
-    <!-- Home Contact Us Start -->
-    <div class="home-contact-us">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <!-- Contact Item Start -->
-                    <div class="home-contact-item wow fadeInUp">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-home-contact-us-1.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
+<!-- Need Attention Start -->
+<div class="need-attention parallaxie">
+    <div class="container">
+        <div class="row section-row">
+            <!-- Section Title Start -->
+            <div class="section-title">
+                <h3 class="wow fadeInUp">Potřebujete péči?</h3>
+                <h2 class="text-anime-style-2" data-cursor="-opaque">S čím Vám můžeme pomoci?</h2>
+                
+            </div>
+            <!-- Section Title End -->
+        </div>
 
-                        <!-- Home Contact Content Start -->
-                        <div class="home-contact-content">
-                            <h3>profesionální terapeuté</h3>
-                            <p>Tým licencovaných a certifikovaných fyzioterapeutů.</p>
-                        </div>
-                        <!-- Home Contact Content End -->
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-1.svg" alt="">
                     </div>
-                    <!-- Contact Item End -->
+                    <div class="need-attention-content">
+                        <p>Dětská mozková obrna</p>
+                    </div>
                 </div>
+            </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Contact Item Start -->
-                    <div class="home-contact-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-home-contact-us-2.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Home Contact Content Start -->
-                        <div class="home-contact-content">
-                            <h3>fyzioterapie</h3>
-                            <p>Pro děti a dospělé</p>
-                        </div>
-                        <!-- Home Contact Content End -->
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-2.svg" alt="">
                     </div>
-                    <!-- Contact Item End -->
+                    <div class="need-attention-content">
+                        <p>Vrozené vývojové vady</p>
+                    </div>
                 </div>
+            </div>
 
-                <div class="col-lg-4 col-md-6">
-                    <!-- Contact Item Start -->
-                    <div class="home-contact-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-home-contact-us-3.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
 
-                        <!-- Home Contact Content Start -->
-                        <div class="home-contact-content">
-                            <h3>Vstupní konzultace zdarma</h3>
-                            <p>V Cortexu se řídíme heslem „3P“ Prevence, Preciznost a Progres</p>
-                        </div>
-                        <!-- Home Contact Content End -->
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.25s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-4.svg" alt="">
                     </div>
-                    <!-- Contact Item End -->
+                    <div class="need-attention-content">
+                        <p>Genetické syndromy</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.25s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-5.svg" alt="">
+                    </div>
+                    <div class="need-attention-content">
+                        <p>Apalické stavy</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.25s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-6.svg" alt="">
+                    </div>
+                    <div class="need-attention-content">
+                        <p>Vývojová dysfázie</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-7.svg" alt="">
+                    </div>
+                    <div class="need-attention-content">
+                        <p>Primitivní reflexy</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-8.svg" alt="">
+                    </div>
+                    <div class="need-attention-content">
+                        <p>Opožděný motorický vývoj</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-9.svg" alt="">
+                    </div>
+                    <div class="need-attention-content">
+                        <p>Svalová muskulární atrofie</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="icon-box">
+                        <img src="images/icon-need-attention-3.svg" alt="">
+                    </div>
+                    <div class="need-attention-content">
+                        <p>Dyspraxie</p>
+                    </div>
                 </div>
             </div>
         </div>
-        </div>
-    <!-- Home Contact Us End -->
+    </div>
+</div>
+<!-- Need Attention End -->
 
    <!-- About Us Start -->
    <div class="about-us page-about-us">
@@ -188,7 +259,7 @@
                     <!-- Section Title Start -->
                         <div class="section-title">
                         <h3 class="wow fadeInUp">O Nás</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Jsme nejlepší v oboru<span>neuro-terapie</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Cortex<span> Neuro Centre</span></h2>
                         <p class="wow fadeInUp" data-wow-delay="0.25s">Naší hlavní specializací jsou programy intenzivní terapie, které obvykle probíhají v tzv. cyklech, kdy je nastaven individuální terapeutický plán na základě předchozí vstupní konzultace
                         </p>
 
@@ -275,144 +346,7 @@
     </div>
     </div>
 <!--  About Us End -->
-    <!-- Gallery Carousel Section Start -->
-    <div class="gallery-carousel">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Scrolling Content Start -->
-                    <div class="gallery-carousel-box">
-                        <div class="gallery-scrolling-content">
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-1.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-2.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-3.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-4.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-5.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-6.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-                        </div>
-
-                        <div class="gallery-scrolling-content">
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-1.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-2.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-3.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-4.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-5.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-
-                            <!-- Image Item Start -->
-                            <div class="gallery-image">
-                                <figure class="image-anime">
-                                    <div class="image-container">
-                                        <img src="images/cortex-podklady/ss-6.jpeg" alt="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <!-- Image Item End -->
-                        </div>
-                    </div>
-                    <!-- Scrolling Content End -->
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <!-- Gallery Carousel Section End -->
+   
     
 
     <!-- Our Service Start -->
@@ -423,7 +357,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h3 class="wow fadeInUp">Terapie</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Poskytujeme</span> ty nejlepší služby</h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Poskytujeme</span> komplexní služby</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -449,7 +383,7 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Vývojová poradna</h3>
+                            <h3>VÝVOJOVÁ PORADNA</h3>
                             <p>Tento vývojový program je vhodný pro ty nejmenší pacienty nejen s opožděným psychomotorickým vývojem.</p>
                         </div>
                         <!-- Service Body End -->
@@ -475,7 +409,7 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Fyzioterapie pro děti</h3>
+                            <h3>FYZIOTERAPIE PRO DĚTI</h3>
                             <p>Ambulantní fyzioterapie pomáhá s držením těla, skoliózou, plochonožím, dýcháním, kondicí a motorikou.</p>
                         </div>
                         <!-- Service Body End -->
@@ -501,7 +435,7 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Fyzioterapie domů</h3>
+                            <h3>FYZIOTERAPIE DOMŮ</h3>
                             <p>Fyzioterapie domů je určena pro pacienty, kteří jsou neschopni navštěvovat naše centrum osobně.</p>
                         </div>
                         <!-- Service Body End -->
@@ -527,7 +461,7 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Intenzivní terapie</h3>
+                            <h3>INTENZIVNÍ TERAPIE</h3>
                             <p>Intenzivní terapie nabízíme v týdenních až čtyř týdenních cyklech, vždy 1 až 4 hodiny denně.</p>
                         </div>
                         <!-- Service Body End -->
@@ -553,7 +487,7 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Ergoterapie</h3>
+                            <h3>ERGOTERAPIE</h3>
                             <p>Ergoterapie je inovativní přístup k podpoře dětského zdraví, zaměřený na posílení schopností a dovedností.</p>
                         </div>
                         <!-- Service Body End -->
@@ -579,7 +513,7 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Fyzioterapie pro dospělé</h3>
+                            <h3>FYZIOTERAPIE PRO DOSPĚLÉ</h3>
                             <p>Cortex Neuro Centre pomáhá po úrazech, operacích, při akutních i chronických bolestech a prevenci zranění.</p>
                         </div>
                         <!-- Service Body End -->
@@ -605,14 +539,14 @@
 
                         <!-- Service Body Start -->
                         <div class="service-body">
-                            <h3>Jste připraveni zažít novou cestu k lepšímu životu?</h3>
+                            <h3>potřebujete poradit s výběrem služby?</h3>
                             <p>Kontaktujte nás ještě dnes, domluvte si úvodní konzultaci a udělejte první krok k životu bez bolesti.</p>
                         </div>
                         <!-- Service Body End -->
 
                         <!-- Service Footer Start -->
                         <div class="service-cta-btn">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" target="blank_" class="btn-default">Rezervujte si schůzku</a>
+                            <a href="kontakt.php" target="blank_" id="ks-btn-gold" class="btn-default">spojte se s námi</a>
                         </div>
                         <!-- Service Footer End -->
                     </div>
@@ -644,7 +578,18 @@
                                     <img src="images/cortex-podklady/ss-6.jpeg" alt="">
                                 </div>
                             </figure>
-                        </div>
+                            <!-- Company Experience Box Start -->
+                            <div class="company-experience">
+                                <div class="icon-box">
+                                    <img src="images/icon-experience.svg" alt="">
+                                </div>
+                                <div class="company-experience-content">
+                                    <h3><span class="counter">5</span>+ let</h3>
+                                    <p>Zkušeností v oboru</p>
+                                </div>
+                            </div>
+                            <!-- Company Experience Box End -->
+                            </div>
                     </div>
                 <!-- Solution Plan Image End -->
             </div>
@@ -687,7 +632,7 @@
                                         <img src="images/icon-solution-counter-1.svg" alt="">
                                     </div>
                                     <div class="solution-counter-content">
-                                        <h3><span class="counter">7</span></h3>
+                                        <h3><span class="counter">6</span>+</h3>
                                         <p>Terapeutů</p>
                                     </div>
                                 </div>
@@ -699,8 +644,8 @@
                                         <img src="images/icon-solution-counter-2.svg" alt="">
                                     </div>
                                     <div class="solution-counter-content">
-                                        <h3><span class="counter">98</span>%</h3>
-                                        <p>Úspěšnost</p>
+                                        <h3><span class="counter">100</span>%</h3>
+                                        <p>Spokojenost</p>
                                     </div>
                                 </div>
                             </div>
@@ -711,8 +656,8 @@
                                         <img src="images/icon-solution-counter-3.svg" alt="">
                                     </div>
                                     <div class="solution-counter-content">
-                                        <h3><span class="counter">950</span>+</h3>
-                                        <p>Spokojených pacientů</p>
+                                        <h3><span class="counter">500</span>+</h3>
+                                        <p>Pacientů</p>
                                     </div>
                                 </div>
                             </div>
@@ -735,7 +680,7 @@
                 <!-- Section Title Start -->
                 <div class="section-title">
                     <h3 class="wow fadeInUp">Proč my?</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>3P</span> Prevence, Preciznost a Progres.</h2>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>3P</span> PREVENCE, PRECIZNOST a PROGRES.</h2>
                     </div>
                 <!-- Section Title End -->
             </div>
@@ -872,122 +817,7 @@
     <!-- Why Choose Us End -->
 
 <!-- Need Attention Start -->
-<div class="need-attention parallaxie">
-    <div class="container">
-        <div class="row section-row">
-            <!-- Section Title Start -->
-            <div class="section-title">
-                <h3 class="wow fadeInUp">Potřebujete péči?</h3>
-                <h2 class="text-anime-style-2" data-cursor="-opaque">S čím Vám můžeme pomoci?</h2>
-                <p class="wow fadeInUp" data-wow-delay="0.25s">Poskytujeme odbornou terapii pro neurologické, vývojové a ortopedické diagnózy.</p>
-            </div>
-            <!-- Section Title End -->
-        </div>
 
-        <div class="row">
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-1.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Dětská mozková obrna</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-2.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Genetické vady</p>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.25s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-4.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Ortopedické vady</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.25s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-5.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Apalické stavy</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.25s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-6.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Vývojová dysfázie</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-7.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Poruchy učení</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-8.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Dyspraxie</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-9.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Poruchy autistického spektra</p>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="col-lg-4 col-md-4 col-6">
-                <div class="need-attention-list wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="icon-box">
-                        <img src="images/icon-need-attention-3.svg" alt="">
-                    </div>
-                    <div class="need-attention-content">
-                        <p>Opožděný vývoj</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Need Attention End -->
 
 
