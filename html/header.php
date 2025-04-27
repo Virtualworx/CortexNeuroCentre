@@ -51,7 +51,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
     <div class="preloader">
         <div class="loading-container">
             <div class="loading"></div>
-            <div id="loading-icon"><img src="images/cortex-podklady/Cortex_vertical.png" alt=""></div>
+            <div id="loading-icon"><img src="images/cortex-podklady/Cortex_vertical-white.png" alt=""></div>
         </div>
     </div>
     <!-- Preloader End -->
@@ -102,10 +102,8 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                     <div class="collapse navbar-collapse main-menu">
                         <div class="nav-menu-wrapper">
                             <ul class="navbar-nav mr-auto" id="menu">
-                                <li class="nav-item submenu"><a class="nav-link" href="o-nas.php">O NÁS</a>
-                                    <ul>
-                                        <li class="nav-item"><a class="nav-link" href="spolupracujeme.php">SPOLUPRACUJEME</a></li>
-                                    </ul>
+                                <li class="nav-item"><a class="nav-link" href="o-nas.php">O NÁS</a>
+
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="nas-tym.php">NÁŠ TÝM</a></li>
                                 <li class="nav-item submenu"><a class="nav-link" href="terapie.php">TERAPIE</a>

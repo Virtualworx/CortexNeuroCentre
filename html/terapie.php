@@ -329,6 +329,16 @@
                                 <!-- Testimonial Slide End -->
                             </div>
                             <div class="swiper-pagination"></div>
+                            <div class="row section-row">
+                                <div class="col-lg-12">
+                                    <!-- Section Title Start -->
+                                    <div class="section-title">
+                                        <!--<h3 class="wow fadeInUp mt-4 mb-0 btn-default">Přidat Recenzi</h3>-->
+                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">přidat recenzi</a>
+                                    </div>
+                                    <!-- Section Title End -->
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- Testimonial Slider End -->

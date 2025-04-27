@@ -3238,7 +3238,7 @@ header.main-header .header-sticky.active{
 
 .member-detail-header p{
 	font-size: 18px;
-	text-transform: capitalize;
+
 	color: var(--white-color);
 	margin: 0;
 }

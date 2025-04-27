@@ -37,7 +37,7 @@
 						<!-- Contact Info Content Start -->
 						<div class="contact-info-content">
 							<h3>E-mail</h3>
-							<p><a href="mailto:info@cortexneurocentre.cz">info@cortexneurocentre.cz</a></p>
+							<p><a href="mailto:sasazitny@seznam.cz">info@cortexneurocentre.cz</a></p>
 						</div>
 						<!-- Contact Info Content End -->
 					</div>

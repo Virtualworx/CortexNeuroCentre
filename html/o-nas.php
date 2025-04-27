@@ -3,210 +3,9 @@
 
     <?php include 'header.php'; ?>
 
-    <!-- About Us Start -->
-    <div class="about-us page-about-us">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <!-- About Image Start -->
-                    <div class="about-us-image">
-                        <div class="about-img">
-                            <figure class="reveal image-anime">
-                                <img src="images/cortex-podklady/c-chodba-square.jpeg" alt="">
-                            </figure>
 
-                            <!-- Company Experience Box Start -->
-                            <div class="company-experience">
-                                <div class="icon-box">
-                                    <img src="images/icon-experience.svg" alt="">
-                                </div>
-                                <div class="company-experience-content">
-                                    <h3><span class="counter">5</span>+ let</h3>
-                                    <p>Zkušeností v oboru</p>
-                                </div>
-                            </div>
-                            <!-- Company Experience Box End -->
-                        </div>
-                    </div>
-                    <!-- About Image End -->
-                </div>
-                <div class="col-lg-6">
-                    <!-- About Us Content Start -->
-                        <div class="about-content">
-                        <!-- Section Title Start -->
-                            <div class="section-title">
-                            <h3 class="wow fadeInUp">O Nás</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Jsme nejlepší v oboru<span>neuro-terapie</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">Naší hlavní specializací jsou programy intenzivní terapie, které obvykle probíhají v tzv. cyklech, kdy je nastaven individuální terapeutický plán na základě předchozí vstupní konzultace
-                            </p>
 
-                            </div>
-                        <!-- Section Title End -->
-
-                        <!-- About Us Body Start -->
-                        <div class="about-us-body">
-                            <!-- About List Item Start -->
-                            <div class="about-list-item wow fadeInUp" data-wow-delay="0.5s">
-                                <div class="icon-box">
-                                    <img src="images/icon-about-us-1.svg" alt="">
-                                </div>
-                                <div class="about-list-content">
-                                    <h3>Intenzivní terapie</h3>
-                                </div>
-                            </div>
-                            <!-- About List Item End -->
-
-                            <!-- About List Item Start -->
-                            <div class="about-list-item wow fadeInUp" data-wow-delay="0.5s">
-                                <div class="icon-box">
-                                    <img src="images/icon-about-us-2.svg" alt="">
-                                </div>
-                                <div class="about-list-content">
-                                    <h3>Vývojová poradna</h3>
-                                </div>
-                            </div>
-                            <!-- About List Item End -->
-
-                            <!-- About List Item Start -->
-                            <div class="about-list-item wow fadeInUp" data-wow-delay="0.75s">
-                                <div class="icon-box">
-                                    <img src="images/icon-about-us-3.svg" alt="">
-                                </div>
-                                <div class="about-list-content">
-                                    <h3>Fyzioterapie</h3>
-                                </div>
-                            </div>
-                            <!-- About List Item End -->
-
-                            <!-- About List Item Start -->
-                            <div class="about-list-item wow fadeInUp" data-wow-delay="0.75s">
-                                <div class="icon-box">
-                                    <img src="images/icon-about-us-4.svg" alt="">
-                                </div>
-                                <div class="about-list-content">
-                                    <h3>Ergoterapie</h3>
-                                </div>
-                            </div>
-                            <!-- About List Item End -->
-                        </div>
-                        <!-- About Us Body End -->
-
-                        <!-- About Us Footer Start -->
-                        <div class="about-us-footer">
-                            <!-- Doctor Info Start -->
-                            <div class="doctor-info wow fadeInUp" data-wow-delay="1s">
-                                <div class="doctor-info-item">
-                                    <div class="image-box">
-                                        <figure class="image-anime">
-                                            <img src="images/cortex-podklady/a-bittnerova-square.jpeg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="doctor-info-content">
-                                        <h3>Adéla Bittnerová</h3>
-                                        <p>Intenzivní terapie</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Doctor Info End -->
-
-                            <!-- Appointment Button Start -->
-                            <div class="appointment-btn wow fadeInUp" data-wow-delay="1s">
-                                <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default">Objednat se ihned</a>
-                            </div>
-                            <!-- Appointment Button End -->
-                        </div>
-                        <!-- About Us Footer End -->
-                        </div>
-                    <!-- About Us Content End -->
-                </div>
-            </div>
-        </div>
-        </div>
-    <!--  About Us End -->
-
-    <!-- Company Counter Start -->
-    <div class="company-counter">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Company Counter Item Start -->
-                    <div class="company-counter-item">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-counter-1.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Company Counter Content Start -->
-                        <div class="company-counter-content">
-                            <h3><span class="counter">7</span>+</h3>
-                            <p>profesionálních terapeutů</p>
-                        </div>
-                        <!-- Company Counter Content End -->
-                    </div>
-                    <!-- Company Counter Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Company Counter Item Start -->
-                    <div class="company-counter-item">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-counter-2.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Company Counter Content Start -->
-                        <div class="company-counter-content">
-                            <h3><span class="counter">98</span>%</h3>
-                            <p>úspěšnost</p>
-                        </div>
-                        <!-- Company Counter Content End -->
-                    </div>
-                    <!-- Company Counter Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Company Counter Item Start -->
-                    <div class="company-counter-item">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-counter-3.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Company Counter Content Start -->
-                        <div class="company-counter-content">
-                            <h3><span class="counter">40</span>+</h3>
-                            <p>pacientů</p>
-                        </div>
-                        <!-- Company Counter Content End -->
-                    </div>
-                    <!-- Company Counter Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Company Counter Item Start -->
-                    <div class="company-counter-item">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-counter-4.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Company Counter Content Start -->
-                        <div class="company-counter-content">
-                            <h3><span class="counter">40</span>+</h3>
-                            <p>pozitivních ohlasů</p>
-                        </div>
-                        <!-- Company Counter Content End -->
-                    </div>
-                    <!-- Company Counter Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Company Counter End -->
+    
 
     <!-- Mission Vision Start -->
     <div class="mission-vision">
@@ -310,6 +109,66 @@
         </div>
     </div>
     <!-- Mission Vision End -->
+
+    <!-- About Us Start -->
+    <div class="about-us page-about-us">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <!-- About Image Start -->
+                    <div class="winning-awards-box">
+                        <div class="row g-3 text-center"> <!-- g-3 přidá mezery mezi logy -->
+                            <div class="col-6 d-flex justify-content-center align-items-center">
+                                <img src="images/cortex-podklady/logo-mediskont.png" class="img-fluid" width="150" alt="Mediskont">
+                            </div>
+                    
+                            <div class="col-6 d-flex justify-content-center align-items-center">
+                                <img src="images/cortex-podklady/logo-ottobock.png" class="img-fluid" width="150" alt="Ottobock">
+                            </div>
+                    
+                            <div class="col-6 d-flex justify-content-center align-items-center">
+                                <img src="images/cortex-podklady/logo-protetika-plzen.png" class="img-fluid" width="150" alt="Protetika Plzeň">
+                            </div>
+                    
+                            <div class="col-6 d-flex justify-content-center align-items-center">
+                                <img src="images/cortex-podklady/logo-skola-papani.png" class="img-fluid" width="150" alt="Škola Papání">
+                            </div>
+                    
+                            <div class="col-6 d-flex justify-content-center align-items-center">
+                                <img src="images/cortex-podklady/logo-vh.png" class="img-fluid" width="150" alt="VH">
+                            </div>
+                    
+                            <div class="col-6 d-flex justify-content-center align-items-center">
+                                <img src="images/cortex-podklady/logo-vitahit.png" class="img-fluid" width="150" alt="Vitahit">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- About Image End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- About Us Content Start -->
+                        <div class="about-content">
+                        <!-- Section Title Start -->
+                            <div class="section-title">
+
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Proč<span> s námi?</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Díky spolupráci s dalšími subjekty máme možnost našim klientům nabídnout přístup ke špičkové protetice či dalším terapeutickým službám, které jejich dětem pomohou dělat ještě větší pokroky. A protože víme, jak je cvičení nejen fyzicky a psychicky náročné, velmi rádi pomáháme našim pacientům a jejich rodinám se získáváním finančních prostředků nejen na terapie – od poradenství jak postupovat při žádostech o příspěvky od nadací po pomoc při tvorbě veřejných sbírek na největších sbírkových platformách v Česku.
+                            </p>
+
+                            </div>
+                        <!-- Section Title End -->
+
+                        
+
+                        
+                        </div>
+                    <!-- About Us Content End -->
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <!--  About Us End -->
 
     <!-- Quality Treatment Section Start -->
     <div class="quality-treatment">
@@ -609,6 +468,16 @@
                                 <!-- Testimonial Slide End -->
                             </div>
                             <div class="swiper-pagination"></div>
+                            <div class="row section-row">
+                                <div class="col-lg-12">
+                                    <!-- Section Title Start -->
+                                    <div class="section-title">
+                                        <!--<h3 class="wow fadeInUp mt-4 mb-0 btn-default">Přidat Recenzi</h3>-->
+                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">přidat recenzi</a>
+                                    </div>
+                                    <!-- Section Title End -->
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- Testimonial Slider End -->
@@ -634,13 +503,13 @@
                 <div class="col-lg-3">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="#" class="btn-default">Náš tým</a>
+                        <a href="nas-tym.php" class="btn-default">Náš tým</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
@@ -659,7 +528,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Adéla Bittnerová</h3>
-                            <p>Intenzivní terapie</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -684,7 +553,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Dominika Karafiátová</h3>
-                            <p>Fyzioterapie pro děti</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -709,37 +578,14 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Barbora Kosová</h3>
-                            <p>Vývojová poradna</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.75s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/j-sindelar-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Jakub Šindelář</h3>
-                            <p>Fyzioterapie pro dospělé</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
+
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
@@ -760,7 +606,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Barbora Mazánková</h3>
-                            <p>Fyzioterapie domů</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -785,7 +631,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Aneta Novotná</h3>
-                            <p>Intenzivní terapie</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -809,7 +655,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Šárka Hiřmanová</h3>
-                            <p>Ergoterapie</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>

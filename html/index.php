@@ -540,7 +540,7 @@
                         <!-- Service Body Start -->
                         <div class="service-body">
                             <h3>potřebujete poradit s výběrem služby?</h3>
-                            <p>Kontaktujte nás ještě dnes, domluvte si úvodní konzultaci a udělejte první krok k životu bez bolesti.</p>
+                            <p>Kontaktujte nás ještě dnes a domluvte si úvodní konzultaci.</p>
                         </div>
                         <!-- Service Body End -->
 
@@ -837,13 +837,13 @@
                 <div class="col-lg-3">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="nas-tym" class="btn-default">Náš tým</a>
+                        <a href="nas-tym.php" class="btn-default">Náš tým</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
@@ -862,7 +862,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Adéla Bittnerová</h3>
-                            <p>Intenzivní terapie</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -887,7 +887,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Dominika Karafiátová</h3>
-                            <p>Fyzioterapie pro děti</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -912,37 +912,14 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Barbora Kosová</h3>
-                            <p>Vývojová poradna</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.75s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/j-sindelar-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Jakub Šindelář</h3>
-                            <p>Fyzioterapie pro dospělé</p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
+               
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
@@ -963,7 +940,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Barbora Mazánková</h3>
-                            <p>Fyzioterapie domů</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -988,7 +965,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Aneta Novotná</h3>
-                            <p>Intenzivní terapie</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -1012,7 +989,7 @@
                         <!-- Team Content Start -->
                         <div class="team-content">
                             <h3>Šárka Hiřmanová</h3>
-                            <p>Ergoterapie</p>
+                            <p></p>
                         </div>
                         <!-- Team Content End -->
                     </div>
@@ -1162,6 +1139,16 @@
                                 <!-- Testimonial Slide End -->
                             </div>
                             <div class="swiper-pagination"></div>
+                            <div class="row section-row">
+                                <div class="col-lg-12">
+                                    <!-- Section Title Start -->
+                                    <div class="section-title">
+                                        <!--<h3 class="wow fadeInUp mt-4 mb-0 btn-default">Přidat Recenzi</h3>-->
+                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">přidat recenzi</a>
+                                    </div>
+                                    <!-- Section Title End -->
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <!-- Testimonial Slider End -->
@@ -1179,7 +1166,7 @@
             <div class="col-lg-9">
                 <div class="section-title">
                     <h3 class="wow fadeInUp">Aktuality & Blog</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Nejnovější</span> články a příběhy</h2>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Blog</span> - články a příběhy</h2>
                 </div>
             </div>
             <div class="col-lg-3">
