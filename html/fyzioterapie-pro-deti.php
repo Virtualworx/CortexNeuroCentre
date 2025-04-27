@@ -25,10 +25,6 @@
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Během terapií využíváme mnoho pomůcek, které motivují, stimulují a přispívají tak ke zefektivní terapie. Těmi jsou například cvičební pomůcky od firmy bObles, senzomotorické chodníčky či balanční pomůcky.</p>
                             <ul class="wow fadeInUp" data-wow-delay="1s">
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Terapeut klienta komplexně vyšetří a provede kineziologický rozbor. I zde klademe velký důraz na individualitu. Po terapii klient a rodič odchází se zaškolením a zásobou doporučených cviků. V následné návštěvě terapeut kontroluje výsledky společně určeného cíle.</p>
-                            <ul class="wow fadeInUp" data-wow-delay="1s">
-                                <li>Vhodné pro všechny pacienty</li>
-                                <li>Věk: 2-15 let</li>
-                            </ul>
                             
                              <br></br>
 
@@ -43,26 +39,16 @@
                     <div class="service-sidebar">
                         <!-- Service Categories List Start -->
                         <div class="service-catagery-list wow fadeInUp">
-                            <h3>our services</h3>
+                            <h3>pro koho je terapie vhodná?</h3>
                             <ul>
-                                <li><a href="#">manual therapy</a></li>
-                                <li><a href="#">chronic pain</a></li>
-                                <li><a href="#">hand therapy</a></li>
-                                <li><a href="#">sports therapy</a></li>
-                                <li><a href="#">cupping therapy</a></li>
+                                <li>Vhodné pro všechny pacienty</li>
+                                <li>Věk: 2-15 let</li>
                             </ul>
                         </div>
                         <!-- Service Categories List End -->
 
                         <!-- Opening Hour Section Start -->
-                        <div class="opening-hour-section wow fadeInUp" data-wow-delay="0.25s">
-                            <h3>opening hours</h3>
-                            <ul>
-                                <li>mon to fri : 10:00 to 6:00</li>
-                                <li>sat : 10:00AM To 3:00PM</li>
-                                <li>sun : closed</li>
-                            </ul>
-                        </div>
+
                         <!-- Opening Hour Section End -->
 
                         <!-- Sidebar Cta Box Start -->
@@ -73,14 +59,14 @@
                             </div>
 
                             <div class="cta-content">
-                                <h3>Ready to Start Your Journey to Recovery?</h3>
-                                <p>Contact us today to schedule your initial consultation and take the first step towards a pain-free life.</p>
+                                <h3>Rezervujte si fyzioterapii pro děti ještě dnes</h3>
+
                             </div>
                             <!-- Cta Content End -->
 
                             <!-- Cta Appointment Button Start -->
                             <div class="cta-appointment-btn">
-                                <a href="" class="btn-default">book appointment</a>
+                                <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavek/vstupni-intenzivni-terapie-neurocortex-1" class="btn-default">REZERVACE</a>
                             </div>
                         <!-- Cta Appointment Button End -->
                         </div>

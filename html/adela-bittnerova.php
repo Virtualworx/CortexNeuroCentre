@@ -129,7 +129,7 @@
                                         </div>
             
                                         <div class="cta-content">
-                                            <h3>Bez bolesti, s radostí</h3>
+                                            <h3>Kontaktujte nás</h3>
                                             <p>Neváhejte a udělejte první krok, rezervujte si termín konzultace a získejte odbornou péči</p>
                                         </div>
                                     </div>
@@ -139,7 +139,7 @@
                                 <div class="col-lg-6">
                                     <!-- Cta Appointment Button Start -->
                                     <div class="cta-appointment-btn">
-                                        <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavky/skupina/novy-pacient" class="btn-default">Rezervovat schůzku</a>
+                                        <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavky/skupina/novy-pacient" class="btn-default">Rezervovat konzultaci</a>
                                     </div>
                                     <!-- Cta Appointment Button End -->
                                 </div>
