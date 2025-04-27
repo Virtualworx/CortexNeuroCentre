@@ -89,14 +89,14 @@
                             </div>
 
                             <div class="cta-content">
-                                <h3>rezervujte si ergoterapii ještě dnes</h3>
+                                <h3>Rezervujte si ergoterapii ještě dnes</h3>
 
                             </div>
                             <!-- Cta Content End -->
 
                             <!-- Cta Appointment Button Start -->
                             <div class="cta-appointment-btn">
-                                <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default">REZERVACE</a>
+                                <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavek/vstupni-ergoterapie-neurocortex-1" class="btn-default">REZERVACE</a>
                             </div>
                         <!-- Cta Appointment Button End -->
                         </div>

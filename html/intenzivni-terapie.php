@@ -20,12 +20,6 @@
                         <div class="service-entry">
                             <h3 class="wow fadeInUp">Intenzivní terapie</h3>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">Intenzivní terapie v Cortex Neuro Centre nabízíme v týdenních až čtyř týdenních cyklech, vždy 1 až 4 hodiny denně. Právě po třech týdnech intenzivní práce se do mozku ukládají nově nabyté dovednosti a díky tomu můžeme docílit největších pokroků. Vhodnou intenzitu terapie Vám doporučíme na vstupní konzultaci, kde zhodnotíme aktuální stav a vhodnost na základě stanovené diagnózy. Terapie se skládá ze stimulační a aktivní části..</p>
-                            <ul class="wow fadeInUp" data-wow-delay="1s">
-                                <li> Vhodné pro neurologické pacienty</li>
-                                <li>Indikováno na základě vstupní konzultace</li>
-                                <li>Věk: 2+</li>
-
-                            </ul>
                             <h3 class="wow fadeInUp" data-wow-delay="0.6s">Stimulační část</h3>
                             <p class="wow fadeInUp" data-wow-delay="0.8s">V části stimulační využíváme neuromobilizací horních i dolních končetin, které nám napomáhají s vnímáním těla a následnou kvalitou pohybu. Využíváme nejrůznějších terapeutických metod a technik a přípravě klienta na samotné aktivní cvičení. Ke stimulaci nám mohou být nápomocni i vibrační přístroje, nahřívací rašelinové vaky či molitanové míčky.</p>
                             
@@ -83,26 +77,17 @@
                     <div class="service-sidebar">
                         <!-- Service Categories List Start -->
                         <div class="service-catagery-list wow fadeInUp">
-                            <h3>our services</h3>
+                            <h3>pro koho je terapie vhodná?</h3>
                             <ul>
-                                <li><a href="#">manual therapy</a></li>
-                                <li><a href="#">chronic pain</a></li>
-                                <li><a href="#">hand therapy</a></li>
-                                <li><a href="#">sports therapy</a></li>
-                                <li><a href="#">cupping therapy</a></li>
+                                <li>Vhodné pro neurologické pacienty</li>
+                                <li>Indikováno na základě vstupní konzultace</li>
+                                <li>Věk: 2+</li>
                             </ul>
                         </div>
                         <!-- Service Categories List End -->
 
                         <!-- Opening Hour Section Start -->
-                        <div class="opening-hour-section wow fadeInUp" data-wow-delay="0.25s">
-                            <h3>opening hours</h3>
-                            <ul>
-                                <li>mon to fri : 10:00 to 6:00</li>
-                                <li>sat : 10:00AM To 3:00PM</li>
-                                <li>sun : closed</li>
-                            </ul>
-                        </div>
+
                         <!-- Opening Hour Section End -->
 
                         <!-- Sidebar Cta Box Start -->
@@ -113,14 +98,14 @@
                             </div>
 
                             <div class="cta-content">
-                                <h3>Ready to Start Your Journey to Recovery?</h3>
-                                <p>Contact us today to schedule your initial consultation and take the first step towards a pain-free life.</p>
+                                <h3>Rezervujte si intenzivní terapii ještě dnes</h3>
+
                             </div>
                             <!-- Cta Content End -->
 
                             <!-- Cta Appointment Button Start -->
                             <div class="cta-appointment-btn">
-                                <a href="" class="btn-default">book appointment</a>
+                                <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavek/vstupni-intenzivni-terapie-neurocortex-1" class="btn-default">REZERVACE</a>
                             </div>
                         <!-- Cta Appointment Button End -->
                         </div>
