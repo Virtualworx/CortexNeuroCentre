@@ -109,12 +109,32 @@ h2 {
 
 }
 
-
-
-/* Change background of body when opened */
-.accordion-collapse.show {
-    background-color: #cfa738 !important; /* Light greenish background */
+.accordion-item {
+    margin-bottom: 1.2rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    border: 1px solid #dee2e6;
 }
+
+/* Button nebude zaoblený zvlášť, border-radius řeší pouze accordion-item */
+.accordion-button {
+    border-radius: 0;
+    background-color: #619E90; /* tvoje zelená, podle screenu */
+}
+
+/* Zrušíme změnu border-radius při collapse/expand */
+.accordion-button.collapsed,
+.accordion-button:not(.collapsed) {
+    border-radius: 0;
+}
+
+/* Change accordion header background color */
+#gold-accordion {
+    background-color: #C39824 !important; /* Custom green */
+    color: white !important; /* White text */
+
+}
+
 
 /* Hover effects */
 .accordion-button:hover {
@@ -125,10 +145,7 @@ h2 {
 .accordion-button:focus {
     box-shadow: none !important;
 }
-/* Custom padding: 15px top, 15px left/right, 0px bottom */
-.accordion-body {
-    padding: 20px 20px 5px 20px !important;
-}
+
 h1{
     font-size: 50px;
 }

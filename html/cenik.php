@@ -181,7 +181,7 @@
                 <!-- Speciální balíčky -->
                 <div class="accordion-item">
                     <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <button class="accordion-button collapsed" id="gold-accordion" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                             Speciální balíčky
                         </button>
                     </h2>
@@ -226,6 +226,87 @@
     </div> <!-- End Container -->
 
 </div>
+<!-- Page Contact Start -->
+		<div class="container pt-5">
+			<div class="row">
+				<div class="col-lg-3 col-md-6">
+					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp">
+						<!-- Icon Box Start -->
+						 <div class="icon-box">
+							<img src="images/icon-green-location.svg" alt="">
+						 </div>
+						<!-- Icon Box End -->
+
+						<!-- Contact Info Content Start -->
+						<div class="contact-info-content">
+							<h3>Adresa</h3>
+							<p>Chlumčanského 497/5 Praha, 180 00</p>
+                            
+						</div>
+						<!-- Contact Info Content End -->
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.25s">
+						<!-- Icon Box Start -->
+						 <div class="icon-box">
+							<img src="images/icon-green-mail.svg" alt="">
+						 </div>
+						<!-- Icon Box End -->
+
+						<!-- Contact Info Content Start -->
+						<div class="contact-info-content">
+							<h3>E-mail</h3>
+							<p><a href="mailto:sasazitny@seznam.cz">info@cortexneurocentre.cz</a></p>
+						</div>
+						<!-- Contact Info Content End -->
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.5s">
+						<!-- Icon Box Start -->
+						 <div class="icon-box">
+							<img src="images/icon-green-phone.svg" alt="">
+						 </div>
+						<!-- Icon Box End -->
+
+						<!-- Contact Info Content Start -->
+						<div class="contact-info-content">
+							<h3>Zavolejte nám</h3>
+							<p ><a href="tel:+420 773 916 324">+420 702 127 286</a></p>
+						</div>
+						<!-- Contact Info Content End -->
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+
+				<div class="col-lg-3 col-md-6">
+					<!-- Contact Info Item Start -->
+					<div class="contact-info-item wow fadeInUp" data-wow-delay="0.75s">
+						<!-- Icon Box Start -->
+						 <div class="icon-box">
+							<img src="images/icon-green-hour.svg" alt="">
+						 </div>
+						<!-- Icon Box End -->
+
+						<!-- Contact Info Content Start -->
+						<div class="contact-info-content">
+							<h3>Otevírací doba</h3>
+							<p>Po - Pá : 8:00 až 17:00</p>
+						</div>
+						<!-- Contact Info Content End -->
+					</div>
+					<!-- Contact Info Item End -->
+				</div>
+			</div>
+		</div>
 <!-- Contact Form Start -->
 <div class="contact-us-form">
     <div class="container">
