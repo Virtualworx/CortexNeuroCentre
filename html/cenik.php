@@ -9,219 +9,220 @@
     
         <div id="year-2025" class="year-content" style="display: block;">
 
-    
-            <div class="accordion" id="accordionExample">
-                
-                <!-- Fyzioterapie -->
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            Fyzioterapie
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>Služba</th>
-                                        <th>Cena</th>
-                                        <th>Doba trvání</th>
-                                        <th>Věk</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Baby therapy - ambulance dětí</td>
-                                        <td>1 500 Kč</td>
-                                        <td>do 50 minut</td>
-                                        <td>0 - 2 roky</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Junior therapy - ambulance dětí</td>
-                                        <td>1 500 Kč</td>
-                                        <td>do 50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ambulance dospělí</td>
-                                        <td>1 500 Kč</td>
-                                        <td>50 minut</td>
-                                        <td>15+</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Fyzioterapie domů</td>
-                                        <td>2 000 Kč</td>
-                                        <td>50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+            <div class="custom-div-sasa">
+                <div class="accordion" id="accordionExample">
+                    
+                    <!-- Fyzioterapie -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                Fyzioterapie
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Služba</th>
+                                            <th>Cena</th>
+                                            <th>Doba trvání</th>
+                                            <th>Věk</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Baby therapy - ambulance dětí</td>
+                                            <td>1 500 Kč</td>
+                                            <td>do 50 minut</td>
+                                            <td>0 - 2 roky</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Junior therapy - ambulance dětí</td>
+                                            <td>1 500 Kč</td>
+                                            <td>do 50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ambulance dospělí</td>
+                                            <td>1 500 Kč</td>
+                                            <td>50 minut</td>
+                                            <td>15+</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Fyzioterapie domů</td>
+                                            <td>2 000 Kč</td>
+                                            <td>50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
-                </div>
-    
-                <!-- Ergoterapie -->
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            Ergoterapie
-                        </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>Služba</th>
-                                        <th>Cena</th>
-                                        <th>Doba trvání</th>
-                                        <th>Věk</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Vstupní konzultace</td>
-                                        <td>1 000 Kč</td>
-                                        <td>do 45 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Ergoterapie</td>
-                                        <td>1 500 Kč</td>
-                                        <td>do 50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+        
+                    <!-- Ergoterapie -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Ergoterapie
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Služba</th>
+                                            <th>Cena</th>
+                                            <th>Doba trvání</th>
+                                            <th>Věk</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Vstupní konzultace</td>
+                                            <td>1 000 Kč</td>
+                                            <td>do 45 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ergoterapie</td>
+                                            <td>1 500 Kč</td>
+                                            <td>do 50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
-                </div>
-    
-                <!-- Vývojová poradna -->
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            Vývojová poradna
-                        </button>
-                    </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>Služba</th>
-                                        <th>Cena</th>
-                                        <th>Doba trvání</th>
-                                        <th>Věk</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Vývojová poradna</td>
-                                        <td>1 500 Kč</td>
-                                        <td>30 - 50 minut</td>
-                                        <td>0 - 2 roky</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vývojový balíček</td>
-                                        <td>6 000 Kč</td>
-                                        <td>Preventivní vývojový program: vstupní vyšetření + 4x terapie I.-VI. trimenon + SCODIAC screening hlavičky</td>
-                                        <td>0 - 2 roky</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+        
+                    <!-- Vývojová poradna -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Vývojová poradna
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Služba</th>
+                                            <th>Cena</th>
+                                            <th>Doba trvání</th>
+                                            <th>Věk</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Vývojová poradna</td>
+                                            <td>1 500 Kč</td>
+                                            <td>30 - 50 minut</td>
+                                            <td>0 - 2 roky</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vývojový balíček</td>
+                                            <td>6 000 Kč</td>
+                                            <td>Preventivní vývojový program: vstupní vyšetření + 4x terapie I.-VI. trimenon + SCODIAC screening hlavičky</td>
+                                            <td>0 - 2 roky</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
-                </div>
-    
-                <!-- Intenzivní terapie -->
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            Intenzivní terapie
-                        </button>
-                    </h2>
-                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>Služba</th>
-                                        <th>Cena</th>
-                                        <th>Doba trvání</th>
-                                        <th>Věk</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>Vstupní konzultace</td>
-                                        <td>1 000 Kč</td>
-                                        <td>do 45 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Intenzivní terapie</td>
-                                        <td>1 500 Kč/hod</td>
-                                        <td>50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Pomocný terapeut</td>
-                                        <td>750 Kč</td>
-                                        <td>50 minut</td>
-                                        <td>-</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+        
+                    <!-- Intenzivní terapie -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                Intenzivní terapie
+                            </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Služba</th>
+                                            <th>Cena</th>
+                                            <th>Doba trvání</th>
+                                            <th>Věk</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Vstupní konzultace</td>
+                                            <td>1 000 Kč</td>
+                                            <td>do 45 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Intenzivní terapie</td>
+                                            <td>1 500 Kč/hod</td>
+                                            <td>50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pomocný terapeut</td>
+                                            <td>750 Kč</td>
+                                            <td>50 minut</td>
+                                            <td>-</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
-                </div>
-    
-                <!-- Speciální balíčky -->
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" id="gold-accordion" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            Speciální balíčky
-                        </button>
-                    </h2>
-                    <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>Služba</th>
-                                        <th>Cena</th>
-                                        <th>Doba trvání</th>
-                                        <th>Věk</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>5x Ergoterapie</td>
-                                        <td>5 000 Kč</td>
-                                        <td>5x 50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Fyzio ambulance děti + Ergoterapie děti</td>
-                                        <td>2 500 Kč</td>
-                                        <td>2x 50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                    <tr>
-                                        <td>10x Ergoterapie</td>
-                                        <td>8 000 Kč</td>
-                                        <td>10x 50 minut</td>
-                                        <td>2 - 15 let</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+        
+                    <!-- Speciální balíčky -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" id="gold-accordion" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                Speciální balíčky
+                            </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Služba</th>
+                                            <th>Cena</th>
+                                            <th>Doba trvání</th>
+                                            <th>Věk</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>5x Ergoterapie</td>
+                                            <td>5 000 Kč</td>
+                                            <td>5x 50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Fyzio ambulance děti + Ergoterapie děti</td>
+                                            <td>2 500 Kč</td>
+                                            <td>2x 50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                        <tr>
+                                            <td>10x Ergoterapie</td>
+                                            <td>8 000 Kč</td>
+                                            <td>10x 50 minut</td>
+                                            <td>2 - 15 let</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>
                     </div>
-                </div>
-    
-            </div> <!-- End Accordion -->
+        
+                </div> <!-- End Accordion -->
+            </div>
         </div> <!-- End Year Content -->
     </div> <!-- End Container -->
 
