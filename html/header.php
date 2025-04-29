@@ -123,7 +123,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                         </div>
                         <!-- Let’s Start Button Start -->
                         <div class="header-btn d-inline-flex">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" target="_blank" class="btn-default">VSTUPNÍ KONZULTACE</a>
+                            <a href="https://my.medevio.cz/cortex-neuro-centre" target="_blank" class="btn-default" id="ks-btn-gold">VSTUPNÍ KONZULTACE</a>
                         </div>
                         <!-- Let’s Start Button End -->
                     </div>
