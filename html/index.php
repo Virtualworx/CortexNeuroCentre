@@ -26,14 +26,50 @@
 					<!-- Hero Slide Start -->
 					<div class="swiper-slide">
 						<div class="hero-slide">
-                        <!-- Slider Video Background Start -->
-                        <div class="hero-slider-video">
-                            <div class="video-wrapper">
-                                <iframe src="https://www.youtube.com/embed/ws1-_G-GPZ4?autoplay=1&mute=1&loop=1&playlist=ws1-_G-GPZ4&controls=0&showinfo=0&modestbranding=1" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-                                <div class="video-overlay"></div>
-                            </div>
-                        </div>
-                        <!-- Slider Video Background End -->
+							<!-- Slider Image Start -->
+							<div class="hero-slider-image">
+								<img src="images/cortex-podklady/cortex-landing1.jpeg" alt="">
+							</div>
+							<!-- Slider Image End -->
+
+							<!-- Slider Content Start -->
+							<div class="container">
+								<div class="row align-items-center">
+									<div class="col-lg-12">
+										<!-- Hero Content Start -->
+                                        <div class="hero-content">
+                                            <!-- Section Title Start -->
+                                            <div class="section-title">
+                                                <h3 class="wow fadeInUp">Vítejte v</h3>
+                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
+                                                <p class="wow fadeInUp" data-wow-delay="0.25s">je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
+                                            </div>
+                                            <!-- Section Title End -->
+                    
+                                            <!-- Hero Content Body Start -->
+                                            <div class="hero-content-body wow fadeInUp" data-wow-delay="0.5s">
+                                                <a href="terapie.php" class="btn-default">Terapie</a>
+                                                <a href="https://my.medevio.cz/cortex-neuro-centre" target= "blank_" class="btn-default btn-highlighted">Objednat se ihned</a>
+                                            </div>
+                                            <!-- Hero Content Body End -->
+                                        </div>
+                                        <!-- Hero Content End -->
+									</div>
+								</div>
+							</div>
+							<!-- Slider Content End -->
+						</div>
+					</div>
+					<!-- Hero Slide End -->
+
+                    <!-- Hero Slide Start -->
+					<div class="swiper-slide">
+						<div class="hero-slide">
+							<!-- Slider Image Start -->
+							<div class="hero-slider-image">
+								<img src="images/cortex-podklady/cortex-landing2.jpeg" alt="">
+							</div>
+							<!-- Slider Image End -->
 
 							<!-- Slider Content Start -->
 							<div class="container">
