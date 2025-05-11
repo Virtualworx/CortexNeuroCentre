@@ -206,3 +206,21 @@ h1{
     transition: all 0.5s ease-in-out;
     height: 100%;
 }
+
+.submenu > ul {
+    min-width: 260px;             /* prevent the dropdown from shrinking too small */
+    white-space: normal;          /* allow text to wrap normally */
+    word-break: break-word;       /* break long words if needed */
+    padding: 10px 15px;           /* some internal padding for aesthetics */
+    border-radius: 15px;          /* matches your rounded look */
+    background-color: #5e978b;    /* same as your existing bg */
+    list-style: none;
+  }
+  
+  .submenu > ul li a.nav-link {
+    white-space: normal;          /* allow text to wrap */
+    color: white;
+    display: block;
+    padding: 8px 0;
+    text-decoration: none;
+  }
