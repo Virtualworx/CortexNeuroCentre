@@ -11,18 +11,17 @@
                 </div>
                 <!-- Section Title End -->
         </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+        <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
                         <div class="team-image">
-                        <a href="adela-bittnerova.php">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/a-bittnerova-square.jpeg" alt="Adéla Bittnerová">
-                            </figure>
-                        </a>
-                
+                            <a href="adela-bittnerova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/a-bittnerova-square.jpeg" alt="">
+                                </figure>
+                            </a>
                             <!-- Team Social Icon Start -->
                             
                             <!-- Team Social Icon End -->
@@ -39,17 +38,16 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
                         <div class="team-image">
-                        <a href="dominika-karafiatova.php">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/d-karafiatova-square.jpeg" alt="">
-                            </figure>
-                        </a>
-                
+                            <a href="dominika-karafiatova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/d-karafiatova-square.jpeg" alt="">
+                                </figure>
+                            </a>
                             <!-- Team Social Icon Start -->
                             
                             <!-- Team Social Icon End -->
@@ -66,17 +64,16 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <!-- Team Image Start -->
                         <div class="team-image">
-                        <a href="barbora-smejkalova.php">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/b-kosova-square.jpeg" alt="">
-                            </figure>
-                        </a>
-                
+                            <a href="barbora-kosova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/b-kosova-square.jpeg" alt="">
+                                </figure>
+                            </a>
                             <!-- Team Social Icon Start -->
                             
                             <!-- Team Social Icon End -->
@@ -85,27 +82,23 @@
                 
                         <!-- Team Content Start -->
                         <div class="team-content">
-                            <h3>Barbora Šmejkalová</h3>
+                            <h3>Barbora Kosová</h3>
                             <p>fyzioterapie</p>
                         </div>
                         <!-- Team Content End -->
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
                         <div class="team-image">
-                        <a href="barbora-mazankova.php">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/b-mazankova-square.jpeg" alt="">
-                            </figure>
-                        </a>
-                
+                            <a href="barbora-mazankova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/b-mazankova-square.jpeg" alt="">
+                                </figure>
+                            </a>
                             <!-- Team Social Icon Start -->
                             
                             <!-- Team Social Icon End -->
@@ -121,18 +114,17 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-
-                <div class="col-lg-3 col-md-6">
+                <div class="w-100 d-none d-lg-block"></div>
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
                         <div class="team-image">
-                        <a href="aneta-novotna.php">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/b-novotna-square.jpeg" alt="">
-                            </figure>
-                        </a>
-                
+                            <a href="aneta-novotna.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/b-novotna-square.jpeg" alt="">
+                                </figure>
+                            </a>
                             <!-- Team Social Icon Start -->
                             
                             <!-- Team Social Icon End -->
@@ -148,16 +140,41 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
                         <div class="team-image">
-                        <a href="sarka-hirmanova.php">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/s-hirmanova-square.jpeg" alt="">
-                            </figure>
-                        </a>    
+                            <a href="karolina-kocova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/s-kocova-f.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Karolína Kočová</h3>
+                            <p>fyzioterapie</p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+                <div class="col-lg-3 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="sarka-hirmanova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/s-hirmanova-square.jpeg" alt="">
+                                </figure>
+                            </a>
                 
                             <!-- Team Social Icon Start -->
                             
@@ -174,9 +191,10 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-
-                
+               
             </div>
+
+
             <div class="row section-row">
                 <!-- Section Title Start -->
                 <div class="section-title text-center">
@@ -185,7 +203,7 @@
                 </div>
                 <!-- Section Title End -->
                 <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
@@ -212,7 +230,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-3 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->

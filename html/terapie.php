@@ -163,28 +163,30 @@
                 </div>
 
                 <div class="col-lg-6">
+                    <div class="sasa">
                     <!-- Service Item Start -->
-                    <div class="service-item service-cta-item wow fadeInUp" data-wow-delay="1.2s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-cta.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
+                        <div class="service-item service-cta-item wow fadeInUp" data-wow-delay="1.2s">
+                            <!-- Icon Box Start -->
+                            <div class="icon-box">
+                                <img src="images/icon-cta.svg" alt="">
+                            </div>
+                            <!-- Icon Box End -->
 
-                        <!-- Service Body Start -->
-                        <div class="service-body">
-                            <h3>Jste připraveni zažít novou cestu k lepšímu životu?</h3>
-                            <p>Kontaktujte nás ještě dnes, domluvte si úvodní konzultaci a udělejte první krok k životu bez bolesti.</p>
-                        </div>
-                        <!-- Service Body End -->
+                            <!-- Service Body Start -->
+                            <div class="service-body">
+                                <h3>Jste připraveni zažít novou cestu k lepšímu životu?</h3>
+                                <p>Kontaktujte nás ještě dnes, domluvte si úvodní konzultaci a udělejte první krok k životu bez bolesti.</p>
+                            </div>
+                            <!-- Service Body End -->
 
-                        <!-- Service Footer Start -->
-                        <div class="service-cta-btn">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" target="blank_" class="btn-default">Rezervujte si schůzku</a>
+                            <!-- Service Footer Start -->
+                            <div class="service-cta-btn">
+                                <a href="https://my.medevio.cz/cortex-neuro-centre" target="blank_" id="ks-btn-gold" class="btn-default">Rezervujte si schůzku</a>
+                            </div>
+                            <!-- Service Footer End -->
                         </div>
-                        <!-- Service Footer End -->
-                    </div>
                     <!-- Service Item End -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -192,14 +194,157 @@
     
     <!-- Page Services Endt -->
 
-    <!-- Client Testimonial Start -->
-    <div class="our-testimonial parallaxie">
+    <!-- Why Choose Us Start -->
+    <div class="why-choose-us">
+        <div class="container">
+            <div class="row section-row">
+                <!-- Section Title Start -->
+                <div class="section-title">
+                    <h3 class="wow fadeInUp">proč my?</h3>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>3P</span> PREVENCE, PRECIZNOST a PROGRES.</h2>
+                    </div>
+                <!-- Section Title End -->
+            </div>
+
+            <!-- Why Choose Us Box Start -->
+            <div class="why-choose-us-box">
+                <div class="row no-gutters align-items-center">
+                    <div class="col-lg-6">
+                        <!-- Why Choose Box Start -->
+                        <div class="why-choose-box-1">
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-us-1.svg" alt="">
+                                </div>  
+                                <!-- Icon Box End -->
+    
+                                <!-- Why Choose Content Start -->
+                                <div class="why-choose-content">
+                                    <h3>prevence</h3>
+                                    <p>V rámci PREVENCE se zaměřujeme především na včasný záchyt odchylek v psychomotorickém vývoji, edukaci a dlouhodobému screeningu.</p>
+                                </div>
+                                <!-- Why Choose Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+    
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-us-2.svg" alt="">
+                                </div>  
+                                <!-- Icon Box End -->
+    
+                                <!-- Why Choose Content Start -->
+                                <div class="why-choose-content">
+                                    <h3>preciznost</h3>
+                                    <p>znamená individuální přístup, vstupní konzultaci a návrh terapie.</p>
+                                </div>
+                                <!-- Why Choose Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+    
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-us-3.svg" alt="">
+                                </div>  
+                                <!-- Icon Box End -->
+    
+                                <!-- Why Choose Content Start -->
+                                <div class="why-choose-content">
+                                    <h3>progres</h3>
+                                    <p>Terapie je přizpůsobena individuálním potřebám pro dosažení PROGRESU.</p>
+                                </div>
+                                <!-- Why Choose Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+                        </div>
+                        <!-- Why Choose Box End -->
+                    </div>
+    
+                    <div class="col-lg-6">
+                        <!-- Why Choose Box Start -->
+                        <div class="why-choose-box-2">
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-us-4.svg" alt="">
+                                </div>  
+                                <!-- Icon Box End -->
+    
+                                <!-- Why Choose Content Start -->
+                                <div class="why-choose-content">
+                                    <h3>moderní technologie</h3>
+                                    <p>Využíváme nejnovější terapeutické metody a přístroje pro maximální efektivitu léčby.</p>
+                                </div>
+                                <!-- Why Choose Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+    
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-us-5.svg" alt="">
+                                </div>  
+                                <!-- Icon Box End -->
+    
+                                <!-- Why Choose Content Start -->
+                                <div class="why-choose-content">
+                                    <h3>přístupnost a pohodlí</h3>
+                                    <p>Nabízíme ambulantní i domácí fyzioterapii, aby byla péče dostupná pro každého.</p>
+                                </div>
+                                <!-- Why Choose Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+    
+                            <!-- Why Choose Item Start -->
+                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
+                                <!-- Icon Box Start -->
+                                <div class="icon-box">
+                                    <img src="images/icon-why-us-6.svg" alt="">
+                                </div>  
+                                <!-- Icon Box End -->
+    
+                                <!-- Why Choose Content Start -->
+                                <div class="why-choose-content">
+                                    <h3>komplexní péče</h3>
+                                    <p>Naše terapie zahrnuje nejen fyzioterapii, ale i dlouhodobé sledování vývoje.</p>
+                                </div>
+                                <!-- Why Choose Content End -->
+                            </div>
+                            <!-- Why Choose Item End -->
+                        </div>
+                        <!-- Why Choose Box End -->
+                    </div>
+
+                    <div class="col-lg-12">
+                        <!-- Why Choose Image Start -->
+                        <div class="why-choose-image">
+                            <img src="images/interier.png" alt="">
+                        </div>
+                        <!-- Why Choose Image End -->
+                    </div>
+                </div>
+            </div>
+            <!-- Why Choose Us Box End -->
+        </div>
+        </div>
+    <!-- Why Choose Us End -->
+
+       <!-- Client Testimonial Start -->
+       <div class="our-testimonial parallaxie">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Recenze</h3>
+                        <h3 class="wow fadeInUp">recenze</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Zkušenosti</span> našich klientů</h2>
                     </div>
                     <!-- Section Title End -->
@@ -347,149 +492,6 @@
         </div>
     </div>
     <!-- Client Testimonial End -->
-
-    <!-- Why Choose Us Start -->
-    <div class="why-choose-us">
-        <div class="container">
-            <div class="row section-row">
-                <!-- Section Title Start -->
-                <div class="section-title">
-                    <h3 class="wow fadeInUp">Proč my?</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>3P</span> Prevence, Preciznost a Progres.</h2>
-                    </div>
-                <!-- Section Title End -->
-            </div>
-
-            <!-- Why Choose Us Box Start -->
-            <div class="why-choose-us-box">
-                <div class="row no-gutters align-items-center">
-                    <div class="col-lg-6">
-                        <!-- Why Choose Box Start -->
-                        <div class="why-choose-box-1">
-                            <!-- Why Choose Item Start -->
-                            <div class="why-choose-item wow fadeInUp">
-                                <!-- Icon Box Start -->
-                                <div class="icon-box">
-                                    <img src="images/icon-why-us-1.svg" alt="">
-                                </div>  
-                                <!-- Icon Box End -->
-    
-                                <!-- Why Choose Content Start -->
-                                <div class="why-choose-content">
-                                    <h3>Prevence</h3>
-                                    <p>V rámci PREVENCE se zaměřujeme především na včasný záchyt odchylek v psychomotorickém vývoji, edukaci a dlouhodobému screeningu.</p>
-                                </div>
-                                <!-- Why Choose Content End -->
-                            </div>
-                            <!-- Why Choose Item End -->
-    
-                            <!-- Why Choose Item Start -->
-                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
-                                <!-- Icon Box Start -->
-                                <div class="icon-box">
-                                    <img src="images/icon-why-us-2.svg" alt="">
-                                </div>  
-                                <!-- Icon Box End -->
-    
-                                <!-- Why Choose Content Start -->
-                                <div class="why-choose-content">
-                                    <h3>Preciznost</h3>
-                                    <p>znamená individuální přístup, vstupní konzultaci a návrh terapie.</p>
-                                </div>
-                                <!-- Why Choose Content End -->
-                            </div>
-                            <!-- Why Choose Item End -->
-    
-                            <!-- Why Choose Item Start -->
-                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
-                                <!-- Icon Box Start -->
-                                <div class="icon-box">
-                                    <img src="images/icon-why-us-3.svg" alt="">
-                                </div>  
-                                <!-- Icon Box End -->
-    
-                                <!-- Why Choose Content Start -->
-                                <div class="why-choose-content">
-                                    <h3>Progres</h3>
-                                    <p>Terapie je přizpůsobena individuálním potřebám pro dosažení PROGRESU.</p>
-                                </div>
-                                <!-- Why Choose Content End -->
-                            </div>
-                            <!-- Why Choose Item End -->
-                        </div>
-                        <!-- Why Choose Box End -->
-                    </div>
-    
-                    <div class="col-lg-6">
-                        <!-- Why Choose Box Start -->
-                        <div class="why-choose-box-2">
-                            <!-- Why Choose Item Start -->
-                            <div class="why-choose-item wow fadeInUp">
-                                <!-- Icon Box Start -->
-                                <div class="icon-box">
-                                    <img src="images/icon-why-us-4.svg" alt="">
-                                </div>  
-                                <!-- Icon Box End -->
-    
-                                <!-- Why Choose Content Start -->
-                                <div class="why-choose-content">
-                                    <h3>Moderní technologie</h3>
-                                    <p>Využíváme nejnovější terapeutické metody a přístroje pro maximální efektivitu léčby.</p>
-                                </div>
-                                <!-- Why Choose Content End -->
-                            </div>
-                            <!-- Why Choose Item End -->
-    
-                            <!-- Why Choose Item Start -->
-                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.25s">
-                                <!-- Icon Box Start -->
-                                <div class="icon-box">
-                                    <img src="images/icon-why-us-5.svg" alt="">
-                                </div>  
-                                <!-- Icon Box End -->
-    
-                                <!-- Why Choose Content Start -->
-                                <div class="why-choose-content">
-                                    <h3>Přístupnost a pohodlí</h3>
-                                    <p>Nabízíme ambulantní i domácí fyzioterapii, aby byla péče dostupná pro každého.</p>
-                                </div>
-                                <!-- Why Choose Content End -->
-                            </div>
-                            <!-- Why Choose Item End -->
-    
-                            <!-- Why Choose Item Start -->
-                            <div class="why-choose-item wow fadeInUp" data-wow-delay="0.5s">
-                                <!-- Icon Box Start -->
-                                <div class="icon-box">
-                                    <img src="images/icon-why-us-6.svg" alt="">
-                                </div>  
-                                <!-- Icon Box End -->
-    
-                                <!-- Why Choose Content Start -->
-                                <div class="why-choose-content">
-                                    <h3>Komplexní péče</h3>
-                                    <p>Naše terapie zahrnuje nejen fyzioterapii, ale i dlouhodobé sledování vývoje.</p>
-                                </div>
-                                <!-- Why Choose Content End -->
-                            </div>
-                            <!-- Why Choose Item End -->
-                        </div>
-                        <!-- Why Choose Box End -->
-                    </div>
-
-                    <div class="col-lg-12">
-                        <!-- Why Choose Image Start -->
-                        <div class="why-choose-image">
-                            <img src="images/interier.png" alt="">
-                        </div>
-                        <!-- Why Choose Image End -->
-                    </div>
-                </div>
-            </div>
-            <!-- Why Choose Us Box End -->
-        </div>
-        </div>
-    <!-- Why Choose Us End -->
 
     <?php include 'footer.php'; ?>
 </body>

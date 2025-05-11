@@ -18,9 +18,9 @@
                     <!-- team member details start -->
                     <div class="team-member-details">
                         <div class="member-detail-header">
-                            <h2 class="text-anime-style-2">Bc. Adéla Bittnerová</h2>
+                            <h2 class="text-anime-style-2 border-bottom mb-5">Bc. Adéla Bittnerová</h2>
                             <p class="wow fadeInUp">Vedoucí terapeut</p>
-                            <p class="wow fadeInUp">Fyzioterapeut</p>
+                            <p class="wow fadeInUp d-inline-block border-bottom">Fyzioterapeut</p>
                         </div>
                         <div class="member-detail-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Před tím, než jsem založila Cortex Neuro Centre, vystudovala jsem obor Fyzioterapie na Západočeské univerzitě v Plzni. Za sebou mám také studium pedagogiky pro pedagogy volného času, kdy jsem vedla kurzy zdravotně kompenzačního cvičení pro děti.</p>                            
@@ -28,8 +28,8 @@
 
                         <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                             <ul>
-                                <li><span>Specializace:</span>Intenzivní terapie</li>
-                                <li><span></span>Vývojová poradna</li>
+                                <li><span>specializace:</span>intenzivní terapie</li>
+                                <li><span></span>vývojová poradna</li>
                             </ul>
                         </div>
 
@@ -49,7 +49,7 @@
                     <!-- About Member Info Start -->
                     <div class="about-member-info">
                         <div class="member-info-title">
-                            <h2 class="wow fadeInUp">O mně</h2>
+                            <h2 class="wow fadeInUp">o mně</h2>
                         </div>
                         <div class="member-info-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Před tím, než jsem založila Cortex Neuro Centre, vystudovala jsem obor Fyzioterapie na Západočeské univerzitě v Plzni. Za sebou mám také studium pedagogiky pro pedagogy volného času, kdy jsem vedla kurzy zdravotně kompenzačního cvičení pro děti.</p>
@@ -71,7 +71,7 @@
                         <!-- About Member Info Start -->
                         <div class="about-member-info">
                             <div class="member-info-title">
-                                <h2 class="wow fadeInUp">Kurzy</h2>
+                                <h2 class="wow fadeInUp">kurzy</h2>
                             </div>
                             <div class="member-info-content">
                                 <p class="wow fadeInUp" data-wow-delay="0.25s">Primitivní reflexy - jejich význam v diagnostice a terapii posturálních a pohybových poruch (Fyzio Beskyd)</p>

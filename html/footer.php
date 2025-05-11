@@ -34,7 +34,7 @@
 
                         <!-- About Footer Content Start -->
                         <div class="about-footer-content">
-                            <p>Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
+                            <p>Cortex Neuro Centre je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé</p>
                         </div>
                         <!-- Footer Social Links Start -->
                         <div class="footer-social-links">

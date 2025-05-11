@@ -20,22 +20,22 @@
                         <div class="member-detail-header">
                             <h2 class="text-anime-style-2 mb-5 border-bottom">Martin Hrzán</h2>
                             <div class="pb-3">
-                                <p class="">Provozní ředitel, jednatel</p>
+                                <p class="">provozní ředitel, jednatel</p>
                                 <p class="d-inline-block border-bottom">info@cortexneurocentre.cz</p>
                             </div>
                         </div>
                         <div class="row ">
                             <div class="col-lg-3">
                                 <div class="member-detail-header">
-                                    <p class="">S čím se na mne můžete obrátit:</p>
+                                    <p class="">s čím se na mne můžete obrátit:</p>
                                 </div>
                             </div>
                             <div class="col-lg-9 ps-5">
                                 <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                                     <ul>
-                                        <li>Rezervace a změny terapií</li>
-                                        <li>Fakturace a vyúčtování</li>
-                                        <li>Administrativa (potvrzení, cenová nabídka, komunikace s nadacemi a nadačními fondy)</li>
+                                        <li>rezervace a změny terapií</li>
+                                        <li>fakturace a vyúčtování</li>
+                                        <li>administrativa (potvrzení, cenová nabídka, komunikace s nadacemi a nadačními fondy)</li>
                                     </ul>
                                 </div>
                             </div>

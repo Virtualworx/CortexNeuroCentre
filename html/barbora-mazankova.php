@@ -18,8 +18,8 @@
                     <!-- team member details start -->
                     <div class="team-member-details">
                         <div class="member-detail-header">
-                            <h2 class="text-anime-style-2">Mgr. Barbora Mazánková</h2>
-                            <p class="wow fadeInUp">Fyzioterapeut</p>
+                            <h2 class="text-anime-style-2 border-bottom mb-5">Mgr. Barbora Mazánková</h2>
+                            <p class="wow fadeInUp d-inline-block border-bottom">fyzioterapeut</p>
                         </div>
                         <div class="member-detail-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">V ambulantní praxi se zaměřuji na vadné držení těla, problematiku skolióz, deformity dolních končetin včetně plochonoží. Využívám kineziotaping svalové i korekční techniky a cross tape. V ambulanci uvítám jak dětské, tak dospělé pacienty.</p>                            
@@ -27,9 +27,9 @@
 
                         <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                             <ul>
-                                <li><span>Specializace:</span>Fyzioterapie pro děti</li>
-                                <li><span></span>Fyzioterapie pro dospělé</li>
-                                <li><span></span>Fyzioterapie domů</li>
+                                <li><span>specializace:</span>fyzioterapie pro děti</li>
+                                <li><span></span>fyzioterapie pro dospělé</li>
+                                <li><span></span>fyzioterapie domů</li>
                             </ul>
                         </div>
 
@@ -49,7 +49,7 @@
                     <!-- About Member Info Start -->
                     <div class="about-member-info">
                         <div class="member-info-title">
-                            <h2 class="wow fadeInUp">O mně</h2>
+                            <h2 class="wow fadeInUp">o mně</h2>
                         </div>
                         <div class="member-info-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Vystudovala jsem bakalářský obor Fyzioterapie na fakultě biomedicínského inženýrství na ČVUT. Nyní budu mimo jiné pokračovat ve studiu magisterského oboru Aplikované fyzioterapie na Univerzitě Karlově. V rámci studia jsem měla možnost projít řadou odborných praxí na různorodých pracovištích. V Oblastní nemocnici Kladno, v Krajské nemocnici Liberec, v rehabilitačních ústavech Hostinné a Kladruby, Vojenském rehabilitačním ústavu Slapy, Klinice Na Košíku, ale zejména v dětské neurorehabilitační klinice, kde mě práce s dětmi nadchla. </p>
@@ -70,7 +70,7 @@
                         <!-- About Member Info Start -->
                         <div class="about-member-info">
                             <div class="member-info-title">
-                                <h2 class="wow fadeInUp">Kurzy</h2>
+                                <h2 class="wow fadeInUp">kurzy</h2>
                             </div>
                             <div class="member-info-content">
     

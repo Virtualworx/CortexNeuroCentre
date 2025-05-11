@@ -105,7 +105,7 @@
 
                             <!-- Cta Appointment Button Start -->
                             <div class="cta-appointment-btn">
-                                <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavek/vstupni-intenzivni-terapie-neurocortex-1" class="btn-default">REZERVACE</a>
+                                <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default" target="_blank">REZERVACE</a>
                             </div>
                         <!-- Cta Appointment Button End -->
                         </div>

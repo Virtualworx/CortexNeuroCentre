@@ -18,8 +18,8 @@
                     <!-- team member details start -->
                     <div class="team-member-details">
                         <div class="member-detail-header">
-                            <h2 class="text-anime-style-2">Bc. Aneta Novotná</h2>
-                            <p class="wow fadeInUp">Fyzioterapeut</p>
+                            <h2 class="text-anime-style-2 border-bottom mb-5">Bc. Aneta Novotná</h2>
+                            <p class="wow fadeInUp d-inline-block border-bottom">fyzioterapeut</p>
                         </div>
                         <div class="member-detail-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Před nástupem do Cortex Neuro Centre jsem pracovala ve dvou prestižních neurorehabilitačních klinikách zaměřených na dětské pacienty, odkud mám zkušenosti s vedením intenzivních a individuálních terapií, především s dětskou mozkovou obrnou či jinými neurologickými diagnózami.</p>                            
@@ -27,7 +27,7 @@
 
                         <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                             <ul>
-                                <li><span>Specializace:</span>Intenzivní terapie</li>
+                                <li><span>specializace:</span>fyzioterapie</li>
                             </ul>
                         </div>
 
@@ -47,7 +47,7 @@
                     <!-- About Member Info Start -->
                     <div class="about-member-info">
                         <div class="member-info-title">
-                            <h2 class="wow fadeInUp">O mně</h2>
+                            <h2 class="wow fadeInUp">o mně</h2>
                         </div>
                         <div class="member-info-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Diplom z fyzioterapie jsem získala na Západočeské univerzitě v Plzni fakultě zdravotnických studií. V rámci studia jsem získala zkušenosti v pražských zdravotnických zařízení jako je Ústřední vojenská nemocnice, Nemocnice Milosrdných sester sv. Karla Boromejského, Mediterra s.r.o.- Rehabilitační klinika Praha Malvazinky, Nemocnice na Bulovce. Zkušenosti jsem též načerpala z plzeňských zdravotnických institucí, příkladem je Fakultní nemocnice Plzeň nebo Mulačova nemocnice.</p>

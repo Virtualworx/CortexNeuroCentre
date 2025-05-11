@@ -9,7 +9,7 @@
                     <!-- team member image start -->
                     <div class="team-member-image">
                         <figure class="image-anime">
-                            <img src="images/cortex-podklady/b-kosova-square.jpeg" alt="">
+                            <img src="images/cortex-podklady/s-kocova-f.jpeg" alt="">
                         </figure>
                     </div>
                     <!-- team member image end -->
@@ -18,19 +18,18 @@
                     <!-- team member details start -->
                     <div class="team-member-details">
                         <div class="member-detail-header">
-                            <h2 class="text-anime-style-2">Mgr. Barbora Šmejkalová</h2>
-                            <p class="wow fadeInUp">Fyzioterapeut</p>
+                            <h2 class="text-anime-style-2 mb-5 border-bottom">Karolína Kočová</h2>
+                            <p class="wow fadeInUp d-inline-block border-bottom">fyzioterapeut</p>
                         </div>
                         <div class="member-detail-content">
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">Vystudovala jsem bakalářský obor Fyzioterapie na 1. lékařské fakultě Univerzity Karlovy, navazující magisterské studium jsem absolvovala na Fakultě tělesné výchovy a sportu Univerzity Karlovy v Praze.</p>                            
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Vystudovala jsem bakalářský obor Fyzioterapie na Západočeské univerzitě v Plzni.
+Během studia jsem měla příležitost získat zkušenosti na různých pracovištích, jak
+ambulantního, tak i nemocničního typu.</p>                            
                         </div>
 
                         <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                             <ul>
-                                <li><span>Specializace:</span>Intenzivní terapie</li>
-                                <li><span></span>Fyzioterapie pro děti</li>
-                                <li><span></span>Fyzioterapie pro dospělé</li>
-                                <li><span></span>Vývojová poradna</li>
+                                <li><span>specializace:</span>fyzioterapie</li>
                             </ul>
                         </div>
 
@@ -50,14 +49,25 @@
                     <!-- About Member Info Start -->
                     <div class="about-member-info">
                         <div class="member-info-title">
-                            <h2 class="wow fadeInUp">O mně</h2>
+                            <h2 class="wow fadeInUp">o mně</h2>
                         </div>
                         <div class="member-info-content">
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">Vystudovala jsem bakalářský obor Fyzioterapie na 1. lékařské fakultě Univerzity Karlovy, navazující magisterské studium jsem absolvovala na Fakultě tělesné výchovy a sportu Univerzity Karlovy v Praze.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Vystudovala jsem bakalářský obor Fyzioterapie na Západočeské univerzitě v Plzni.
+Během studia jsem měla příležitost získat zkušenosti na různých pracovištích, jak
+ambulantního, tak i nemocničního typu.</p>
 
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">V rámci pětiletého studia jsem praxi získávala jak v ambulancích (např. Monada, CKP Roseta), tak i v nemocničním prostředí na různých odděleních (např. VFN v Praze, Nemocnice Bulovka, Fakultní Thomayerova nemocnice, IKEM). Zkušenosti s dětskými pacienty jsem získala např. na pražské neurorehabilitační klinice nebo v dětské léčebně Vesna v Janských Lázních. Během magisterského studia jsem začala pracovat na soukromé klinice v Praze, kde v ambulantní praxi pracuji jak s dětskými, tak i dospělými pacienty.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Moje profesní kariéra začala v soukromé ambulanci paní doktorky Masaříkové, kde jsem
+pracovala dva roky a věnovala se fyzioterapii dospělých i dětských klientů.
+Posledních sedm let jsem byla zaměstnána v neziskové organizaci Caballinus z. s. Na tomto
+pracovišti jsem se věnovala fyzioterapii a hipoterapii dětí s různými psychomotorickými
+problémy při rozličných diagnozách, především dětská mozková obrna a široké spektrum
+genetických syndromů. Měla jsem zde možnost nabrat mnoho zkušeností, jak při
+ambulantních, tak i intenzivních kombinovaných terapiích.</p>
 
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">V Cortexu se se mnou můžete setkat v rámci intezivních neurorehabilitací, převážně při cvičení s dětskými pacienty. V rámci ambulantní fyzioterapie však ráda přivítám i pacienty dospělé.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">V Cortexu bych ráda na tyto moje zkušenosti navázala a dále se věnovala fyzioterapii dětí s
+důrazem na individuální přístup a funkčnost. Můžeme se potkat v rámci intenzivních
+neurorehabilitací, ale i při ambulantní fyzioterapii.</p>
+
                                 
                         </div>
                     </div>
@@ -73,29 +83,36 @@
                         <!-- About Member Info Start -->
                         <div class="about-member-info">
                             <div class="member-info-title">
-                                <h2 class="wow fadeInUp">Kurzy</h2>
+                                <h2 class="wow fadeInUp">kurzy</h2>
                             </div>
                             <div class="member-info-content">
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Asymetrický motorický vývoj u kojenců a batolat do 3 let - prevence a terapie metodou Akrální koaktivační terapie <br>Metodika na neurofyziologickém podkladě.
-                                <br>Certifikovaný terapeut ACT pro miminka.</p>
     
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Kineziologická diagnostika v raném dětském věku (Jarmila Čápová)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">NDT Basic Bobath v pediatrické praxi pro děti 2-18let</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Neuro-vývojová stimulace - Pohybem se učíme® (PhDr. Marja Volemanová, Ph.D.)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Asymetrický motorický vývoj u kojenců a batolat do 3 let - prevence a terapie metodou</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Diagnostika a terapie skolióz - multidisciplinární přístup (Rehaeduca)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">akrální koaktivační terapie</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Úvod do fyzioterapie fasciálních tkání (Rehaeduca)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Fyzioterapie funkce (forma-funkce-facilitace)</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Webinář Psychosomatika (MuDr. Honzák CSc.)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Neurologické vady dětské nohy</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Hypermobilita (CKP Roseta)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Kurz hipoterapie</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Celostní terapie bolestí krční páteře a hlavy (CKP Roseta)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Kurz hipoterapie v rané péči</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Kinezio-taping (Flandera)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Senzomotorická stimulace a stabilizace hybného systému</p>
 
-                                <p class="wow fadeInUp" data-wow-delay="0.25s">Baňkování(EduSpa College)</p>
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Kinesiotaping</p>
+
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Spirální stabilizace, kurz A</p>
+
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Workshop logopedie v hiporehabilitaci</p>
+
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Workshop aplikace ontogenetických prvků při polohování klienta v hipoterapii</p>
+
+                                <p class="wow fadeInUp" data-wow-delay="0.25s">Neodkladná resuscitace a urgentní stavy</p>
+
                             </div>
                         </div>
                         <!-- About Member Info End -->
@@ -126,7 +143,7 @@
                                 <div class="col-lg-6">
                                     <!-- Cta Appointment Button Start -->
                                     <div class="cta-appointment-btn">
-                                        <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavky/skupina/novy-pacient" class="btn-default">Rezervovat konzultaci</a>
+                                        <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavky/skupina/novy-pacient" class="btn-default">rezervovat konzultaci</a>
                                     </div>
                                     <!-- Cta Appointment Button End -->
                                 </div>

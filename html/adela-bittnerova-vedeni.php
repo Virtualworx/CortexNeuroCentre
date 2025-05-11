@@ -20,22 +20,22 @@
                         <div class="member-detail-header">
                             <h2 class="text-anime-style-2 mb-5 border-bottom">Bc. Adéla Bittnerová</h2>
                             <div class="pb-3">
-                                <p class="">Ředitelka zdravotní sekce, jednatelka</p>
+                                <p class="">ředitelka zdravotní sekce, jednatelka</p>
                                 <p class="d-inline-block border-bottom">adela@cortexneurocentre.cz</p>
                             </div>
                         </div>
                         <div class="row ">
                             <div class="col-lg-3">
                                 <div class="member-detail-header">
-                                    <p class="">S čím se na mne můžete obrátit:</p>
+                                    <p class="">s čím se na mne můžete obrátit:</p>
                                 </div>
                             </div>
                             <div class="col-lg-9 ps-5">
                                 <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                                     <ul>
-                                        <li>Indikace terapií</li>
-                                        <li>Zdravotnická dokumentace</li>
-                                        <li>Odborné konzultace</li>
+                                        <li>indikace terapií</li>
+                                        <li>zdravotnická dokumentace</li>
+                                        <li>odborné konzultace</li>
                                     </ul>
                                 </div>
                             </div>

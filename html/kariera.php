@@ -184,7 +184,7 @@
 
                             <!-- Appointment Button Start -->
                             <div class="appointment-btn wow fadeInUp" data-wow-delay="1s">
-                                <a href="files/Hledáme ergoterapeuta.pdf.pdf" class="btn-default" target="_blank">Více informací</a>
+                                <a href="files/Hledáme ergoterapeuta.pdf" class="btn-default" target="_blank">Více informací</a>
                             </div>
                             <!-- Appointment Button End -->
                         </div>

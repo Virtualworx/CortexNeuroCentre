@@ -18,8 +18,8 @@
                     <!-- team member details start -->
                     <div class="team-member-details">
                         <div class="member-detail-header">
-                            <h2 class="text-anime-style-2">Mgr. et. Bc. Šárka Hiřmanová</h2>
-                            <p class="wow fadeInUp">Ergoterapeut</p>
+                            <h2 class="text-anime-style-2 mb-5 border-bottom">Mgr. et. Bc. Šárka Hiřmanová</h2>
+                            <p class="wow fadeInUp d-inline-block border-bottom">ergoterapeut</p>
                         </div>
                         <div class="member-detail-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Za svůj cíl během ergoterapeutických intervencí považuji dosažení co největší možné soběstačnosti dítěte, podporu nových dovedností a prožití správné hry. Je pro mě nesmírně důležitá vzájemná spolupráce s dítětem, ale i s jeho rodiči či ostatními příslušníky. Jste to hlavně vy, kdo dokážete dítě stimulovat v každodenních činnostech a v přirozeném prostředí dítěte.</p>                            
@@ -27,7 +27,7 @@
 
                         <div class="member-detail-body wow fadeInUp" data-wow-delay="0.5s">
                             <ul>
-                                <li><span>Specializace:</span>Ergoterapie</li>
+                                <li><span>Specializace:</span>ergoterapie</li>
                             </ul>
                         </div>
 

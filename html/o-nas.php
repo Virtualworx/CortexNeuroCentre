@@ -202,7 +202,7 @@
                     <div class="col-lg-6">
                         <!-- Cta Appointment Button Start -->
                         <div class="cta-appointment-btn">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default">Objednat se ihned</a>
+                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default" target="_blank">Objednat se ihned</a>
                         </div>
                         <!-- Cta Appointment Button End -->
                     </div>
@@ -329,6 +329,216 @@
         </div>
     </div>
     <!-- Quality Treatment Section End -->
+
+   <!-- Our Team Start -->
+   <div class="our-team">
+        <div class="container">
+            <div class="row align-items-center section-row">
+                <div class="col-lg-9">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">terapeuté</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Náš oddaný</span> a zkušený tým terapeutů</h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>
+
+                <div class="col-lg-3">
+                    <!-- Section Button Start -->
+                    <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
+                        <a href="nas-tym.php" class="btn-default">náš tým</a>
+                    </div>
+                    <!-- Section Button End -->
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="adela-bittnerova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/a-bittnerova-square.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Adéla Bittnerová</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="dominika-karafiatova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/d-karafiatova-square.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Dominika Karafiátová</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="barbora-kosova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/b-kosova-square.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Barbora Kosová</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="barbora-mazankova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/b-mazankova-square.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Barbora Mazánková</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+                <div class="w-100 d-none d-lg-block"></div>
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="aneta-novotna.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/b-novotna-square.jpeg" alt="">
+                                </figure>
+                            </a>
+                                <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Aneta Novotná</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="sarka-hirmanova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/s-hirmanova-square.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Šárka Hiřmanová</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+                <div class="col-lg-2 col-md-4">
+                    <!-- Team Member Item Start -->
+                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
+                        <!-- Team Image Start -->
+                        <div class="team-image">
+                            <a href="karolina-kocova.php">
+                                <figure class="image-anime">
+                                    <img src="images/cortex-podklady/s-kocova-f.jpeg" alt="">
+                                </figure>
+                            </a>
+                            <!-- Team Social Icon Start -->
+                            
+                            <!-- Team Social Icon End -->
+                        </div>
+                        <!-- Team Image End -->
+                
+                        <!-- Team Content Start -->
+                        <div class="team-content">
+                            <h3>Karolína Kočová</h3>
+                            <p></p>
+                        </div>
+                        <!-- Team Content End -->
+                    </div>
+                    <!-- Team Member Item End -->
+                </div>
+
+               
+            </div>
+
+        </div>
+        </div>
+    <!-- Our Team End -->
 
     <!-- Client Testimonial Start -->
     <div class="our-testimonial parallaxie">
@@ -485,184 +695,6 @@
         </div>
     </div>
     <!-- Client Testimonial End -->
-
-    <!-- Our Team Start -->
-    <div class="our-team">
-        <div class="container">
-            <div class="row align-items-center section-row">
-                <div class="col-lg-9">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">terapeuté</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Náš oddaný</span> a zkušený tým terapeutů</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-
-                <div class="col-lg-3">
-                    <!-- Section Button Start -->
-                    <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="nas-tym.php" class="btn-default">náš tým</a>
-                    </div>
-                    <!-- Section Button End -->
-                </div>
-            </div>
-
-            <div class="row justify-content-center">
-                <div class="col-lg-2 col-md-4">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/a-bittnerova-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Adéla Bittnerová</h3>
-                            <p></p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-2 col-md-4">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/d-karafiatova-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Dominika Karafiátová</h3>
-                            <p></p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-2 col-md-4">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/b-kosova-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Barbora Kosová</h3>
-                            <p></p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-                <div class="col-lg-2 col-md-4">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/b-mazankova-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Barbora Mazánková</h3>
-                            <p></p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-                <div class="col-lg-2 col-md-4">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/b-novotna-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Aneta Novotná</h3>
-                            <p></p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-                <div class="col-lg-2 col-md-4">
-                    <!-- Team Member Item Start -->
-                    <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Team Image Start -->
-                        <div class="team-image">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/s-hirmanova-square.jpeg" alt="">
-                            </figure>
-                
-                            <!-- Team Social Icon Start -->
-                            
-                            <!-- Team Social Icon End -->
-                        </div>
-                        <!-- Team Image End -->
-                
-                        <!-- Team Content Start -->
-                        <div class="team-content">
-                            <h3>Šárka Hiřmanová</h3>
-                            <p></p>
-                        </div>
-                        <!-- Team Content End -->
-                    </div>
-                    <!-- Team Member Item End -->
-                </div>
-
-               
-            </div>
-
-        </div>
-        </div>
-    <!-- Our Team End -->
 
     <?php include 'footer.php'; ?>
 </body>
