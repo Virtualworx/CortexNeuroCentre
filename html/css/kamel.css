@@ -266,4 +266,8 @@ h1{
         text-decoration: none;
         transition: background-color 0.3s ease;
     }
+    .sasa-d-none:hover {
+        background-color: var(--secondary-color);         /* tmavší odstín na hover */
+        color: #fff;
+      }
 }
