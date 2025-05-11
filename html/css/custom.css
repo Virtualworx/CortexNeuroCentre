@@ -2627,7 +2627,7 @@ header.main-header .header-sticky.active{
 }
 
 .therapy-process{
-	padding: 100px 0 70px;
+	padding: 100px 0 10px;
 }
 
 .therapy-process .section-title{
@@ -5129,6 +5129,3 @@ ul.navbar-nav .nav-link {
 	padding: 0.5rem !important;
   }
 
-#ks-btn-gold {
-	background-color: #c39824;
-}

@@ -64,7 +64,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                     <!-- Topbar Contact Information Start -->
                     <div class="topbar-contact-info">
                         <ul>
-                            <li><a href="#"><img src="images/icon-phone.svg" alt="">+(420) 702 127 286</a></li>
+                            <li class="hide-on-small"><a href="#"><img src="images/icon-phone.svg" alt="">+(420) 702 127 286</a></li>
                             <li><a href="#"><img src="images/icon-mail.svg" alt=""> info@cortexneurocentre.cz</a></li>
                             <li class="hide-mobile"><a href="https://www.google.com/maps?ll=50.114671,14.467651&z=17&t=m&hl=en&gl=CZ&mapclient=embed&cid=12347777600494666582"><img src="images/icon-location.svg" alt="">Chlumčanského 497/5, 180 00 Praha 8</a></li>
                         </ul>
@@ -128,7 +128,11 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                         <!-- Let’s Start Button End -->
                     </div>
                     <!-- Main Menu End -->
-                    <div class="navbar-toggle"></div>
+                    <div class="navbar-toggle mx-auto"></div>
+                    <a href="#" class="sasa-d-none">
+                    VSTUPNÍ KONZULTACE
+                    <img src="images/icon-phone.svg" alt="" />
+                    </a>
                 </div>
             </nav>
             <div class="responsive-menu"></div>

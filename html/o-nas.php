@@ -105,6 +105,7 @@
                     <!-- Therapy Process Item End -->
                 </div>
             </div>
+            <p class="sasa-info text-center mt-4"><i>Naše centrum je nestátní zdravotnické zařízení a terapie nejsou hrazeny pojišťovnou – nelze u nás uplatnit FT poukaz.</i></p>
         </div>
     </div>
     <!-- Therapy Process End -->

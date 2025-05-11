@@ -19,7 +19,15 @@
                     <div class="team-member-details">
                         <div class="member-detail-header">
                             <h2 class="text-anime-style-2 border-bottom mb-5">Mgr. Barbora Kosová</h2>
-                            <p class="wow fadeInUp d-inline-block border-bottom">fyzioterapeut</p>
+                            <div class="row">
+                                <div class="col-lg-3 col-md-6">
+                                    <p class="wow fadeInUp d-inline-block border-bottom">fyzioterapeut</p>
+                                </div>
+                                <div class="col-lg-9 col-md-6">
+                                    <p class="wow fadeInUp sasa-color">aktuálně na mateřské dovolené</p>
+                                </div>
+                            </div>
+                            
                         </div>
                         <div class="member-detail-content">
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Vystudovala jsem bakalářský obor Fyzioterapie na 1. lékařské fakultě Univerzity Karlovy, navazující magisterské studium jsem absolvovala na Fakultě tělesné výchovy a sportu Univerzity Karlovy v Praze.</p>                            

@@ -5,6 +5,7 @@
 <div class="container mt-4">
         <div class="year-selector text-center">
             <button class="btn btn-success" style="pointer-events: none;" onclick="showYear(2025)">aktuální ceník</button>
+            <p class="m-4 sasa-info"><i>Naše centrum je nestátní zdravotnické zařízení a terapie nejsou hrazeny pojišťovnou – nelze u nás uplatnit FT poukaz.</i></p>
         </div>
     
         <div id="year-2025" class="year-content" style="display: block;">
