@@ -129,7 +129,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                     </div>
                     <!-- Main Menu End -->
                     <div class="navbar-toggle mx-auto"></div>
-                    <a href="https://my.medevio.cz/cortex-neuro-centre" class="sasa-d-none">
+                    <a href="https://my.medevio.cz/cortex-neuro-centre" target="_blank" class="sasa-d-none">
                     VSTUPNÍ KONZULTACE
                     <img src="images/icon-phone.svg" alt="" />
                     </a>
