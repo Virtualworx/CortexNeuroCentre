@@ -8,11 +8,11 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
       </div>
       <div class="modal-body">
-        <h2 class="fs-5">Vstupní konzultace zdarma</h2>
-        <p class="text-center">rezervujte si vstupní konzultaci zdarma ještě dnes <a href="https://my.medevio.cz/cortex-neuro-centre/pozadavek/vstupni-intenzivni-terapie-neurocortex-1" class="btn btn-default d-block mx-auto mt-3 text-center">REZERVOVAT</a></p> 
+        <h2 class="fs-5">vstupní konzultace zdarma</h2>
+        <p class="text-center">rezervujte si vstupní konzultaci zdarma ještě dnes<a href="https://my.medevio.cz/cortex-neuro-centre/pozadavek/vstupni-intenzivni-terapie-neurocortex-1" class="btn btn-default d-block mx-auto mt-3 text-center">REZERVOVAT</a></p> 
         <hr>
-        <h2 class="fs-5">Stále přijímáme nové klienty</h2>
-        <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn btn-default d-block mx-auto mt-3 text-center">Rezervovat</a>
+        <h2 class="fs-5">stále přijímáme nové klienty</h2>
+        <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn btn-default d-block mx-auto mt-3 text-center">REZERVOVAT</a>
       </div>
     </div>
   </div>
