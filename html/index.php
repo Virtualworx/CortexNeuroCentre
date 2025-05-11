@@ -19,91 +19,42 @@
 </div>
 
     <!-- Hero Section Start -->
-    <div class="hero bg-image hero-slider">
-        <div class="hero-slider-layout">
-			<div class="swiper">
-				<div class="swiper-wrapper">
-					<!-- Hero Slide Start -->
-					<div class="swiper-slide">
-						<div class="hero-slide">
-							<!-- Slider Image Start -->
-							<div class="hero-slider-image">
-								<img src="images/cortex-podklady/cortex-landing1.jpeg" alt="">
-							</div>
-							<!-- Slider Image End -->
+    <div class="hero bg-image hero-video">
+        <!-- Video Start -->
+		<div class="hero-bg-video">
+			<!-- Selfhosted Video Start -->
+			<video autoplay muted loop id="myVideo"><source src="images/cortex-podklady/videa/cortex_wide.mp4" type="video/mp4"></video>
+			<!-- Selfhosted Video End -->
 
-							<!-- Slider Content Start -->
-							<div class="container">
-								<div class="row align-items-center">
-									<div class="col-lg-12">
-										<!-- Hero Content Start -->
-                                        <div class="hero-content">
-                                            <!-- Section Title Start -->
-                                            <div class="section-title">
-                                                <h3 class="wow fadeInUp">Vítejte v</h3>
-                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
-                                                <p class="wow fadeInUp" data-wow-delay="0.25s">je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
-                                            </div>
-                                            <!-- Section Title End -->
-                    
-                                            <!-- Hero Content Body Start -->
-                                            <div class="hero-content-body wow fadeInUp" data-wow-delay="0.5s">
-                                                <a href="terapie.php" class="btn-default">Terapie</a>
-                                                <a href="https://my.medevio.cz/cortex-neuro-centre" target= "blank_" class="btn-default btn-highlighted">Objednat se ihned</a>
-                                            </div>
-                                            <!-- Hero Content Body End -->
-                                        </div>
-                                        <!-- Hero Content End -->
-									</div>
-								</div>
-							</div>
-							<!-- Slider Content End -->
-						</div>
-					</div>
-					<!-- Hero Slide End -->
-
-                    <!-- Hero Slide Start -->
-					<div class="swiper-slide">
-						<div class="hero-slide">
-							<!-- Slider Image Start -->
-							<div class="hero-slider-image">
-								<img src="images/cortex-podklady/cortex-landing2.jpeg" alt="">
-							</div>
-							<!-- Slider Image End -->
-
-							<!-- Slider Content Start -->
-							<div class="container">
-								<div class="row align-items-center">
-									<div class="col-lg-12">
-										<!-- Hero Content Start -->
-                                        <div class="hero-content">
-                                            <!-- Section Title Start -->
-                                            <div class="section-title">
-                                                <h3 class="wow fadeInUp">Vítejte v</h3>
-                                                <h1 class="text-anime-style-2" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
-                                                <p class="wow fadeInUp" data-wow-delay="0.25s">je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
-                                            </div>
-                                            <!-- Section Title End -->
-                    
-                                            <!-- Hero Content Body Start -->
-                                            <div class="hero-content-body wow fadeInUp" data-wow-delay="0.5s">
-                                                <a href="terapie.php" class="btn-default">Terapie</a>
-                                                <a href="https://my.medevio.cz/cortex-neuro-centre" target= "blank_" class="btn-default btn-highlighted">Objednat se ihned</a>
-                                            </div>
-                                            <!-- Hero Content Body End -->
-                                        </div>
-                                        <!-- Hero Content End -->
-									</div>
-								</div>
-							</div>
-							<!-- Slider Content End -->
-						</div>
-					</div>
-					<!-- Hero Slide End -->
-				</div>
-                <div class="swiper-pagination"></div>
-			</div>  
+			<!-- Youtube Video Start -->
+			<!-- <div id="herovideo" class="player" data-property="{videoURL:'74DWwSxsVSs',containment:'.hero-video', showControls:false, autoPlay:true, loop:true, vol:0, mute:false, startAt:0,  stopAt:296, opacity:1, addRaster:true, quality:'large', optimizeDisplay:true}"></div> -->
+			<!-- Youtube Video End -->
 		</div>
+		<!-- Video End -->
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <!-- Hero Content Start -->
+                    <div class="hero-content">
+                        <!-- Section Title Start -->
+                        <div class="section-title">
+                            <h3 class="wow fadeInUp">vítejte v</h3>
+                            <h1 class="text-anime-style-2 mb-5 mt-5" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s"></p>
+                        </div>
+                        <!-- Section Title End -->
+
+                        <!-- Hero Content Body Start -->
+                        <div class="hero-content-body wow fadeInUp mt-5 pt-4" data-wow-delay="0.5s">
+                            <a href="#" class="btn-default btn-highlighted">terapie</a>
+                            <a href="#" class="btn-default btn-highlighted">objednat se ihned</a>
+                        </div>
+                        <!-- Hero Content Body End -->
+                    </div>
+                    <!-- Hero Content End -->
+                </div>
+            </div>
+        </div>
     </div>
     <!-- Hero Section End -->
 
@@ -113,7 +64,7 @@
         <div class="row section-row">
             <!-- Section Title Start -->
             <div class="section-title">
-                <h3 class="wow fadeInUp">Potřebujete péči?</h3>
+                <h3 class="wow fadeInUp">potřebujete péči?</h3>
                 <h2 class="text-anime-style-2" data-cursor="-opaque">S čím Vám můžeme pomoci?</h2>
                 
             </div>
@@ -127,7 +78,7 @@
                         <img src="images/icon-need-attention-1.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Dětská mozková obrna</p>
+                        <p>dětská mozková obrna</p>
                     </div>
                 </div>
             </div>
@@ -138,7 +89,7 @@
                         <img src="images/icon-need-attention-2.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Vrozené vývojové vady</p>
+                        <p>vrozené vývojové vady</p>
                     </div>
                 </div>
             </div>
@@ -150,7 +101,7 @@
                         <img src="images/icon-need-attention-4.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Genetické syndromy</p>
+                        <p>genetické syndromy</p>
                     </div>
                 </div>
             </div>
@@ -161,7 +112,7 @@
                         <img src="images/icon-need-attention-5.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Apalické stavy</p>
+                        <p>apalické stavy</p>
                     </div>
                 </div>
             </div>
@@ -172,7 +123,7 @@
                         <img src="images/icon-need-attention-6.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Vývojová dysfázie</p>
+                        <p>vývojová dysfázie</p>
                     </div>
                 </div>
             </div>
@@ -183,7 +134,7 @@
                         <img src="images/icon-need-attention-7.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Primitivní reflexy</p>
+                        <p>primitivní reflexy</p>
                     </div>
                 </div>
             </div>
@@ -194,7 +145,7 @@
                         <img src="images/icon-need-attention-8.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Opožděný motorický vývoj</p>
+                        <p>opožděný motorický vývoj</p>
                     </div>
                 </div>
             </div>
@@ -205,7 +156,7 @@
                         <img src="images/icon-need-attention-9.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Svalová muskulární atrofie</p>
+                        <p>svalová muskulární atrofie</p>
                     </div>
                 </div>
             </div>
@@ -217,7 +168,7 @@
                         <img src="images/icon-need-attention-3.svg" alt="">
                     </div>
                     <div class="need-attention-content">
-                        <p>Dyspraxie</p>
+                        <p>dyspraxie</p>
                     </div>
                 </div>
             </div>
@@ -258,10 +209,9 @@
                     <div class="about-content">
                     <!-- Section Title Start -->
                         <div class="section-title">
-                        <h3 class="wow fadeInUp">O Nás</h3>
+                        <h3 class="wow fadeInUp">o nás</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque">Cortex<span> Neuro Centre</span></h2>
-                        <p class="wow fadeInUp" data-wow-delay="0.25s">Naší hlavní specializací jsou programy intenzivní terapie, které obvykle probíhají v tzv. cyklech, kdy je nastaven individuální terapeutický plán na základě předchozí vstupní konzultace
-                        </p>
+                        <p class="wow fadeInUp" data-wow-delay="0.25s">Jsme neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
 
                         </div>
                     <!-- Section Title End -->
@@ -274,7 +224,7 @@
                                 <img src="images/icon-about-us-1.svg" alt="">
                             </div>
                             <div class="about-list-content">
-                                <h3>Intenzivní terapie</h3>
+                                <h3>intenzivní terapie</h3>
                             </div>
                         </div>
                         <!-- About List Item End -->
@@ -285,7 +235,7 @@
                                 <img src="images/icon-about-us-2.svg" alt="">
                             </div>
                             <div class="about-list-content">
-                                <h3>Vývojová poradna</h3>
+                                <h3>vývojová poradna</h3>
                             </div>
                         </div>
                         <!-- About List Item End -->
@@ -296,7 +246,7 @@
                                 <img src="images/icon-about-us-3.svg" alt="">
                             </div>
                             <div class="about-list-content">
-                                <h3>Fyzioterapie</h3>
+                                <h3>fyzioterapie</h3>
                             </div>
                         </div>
                         <!-- About List Item End -->
@@ -307,7 +257,7 @@
                                 <img src="images/icon-about-us-4.svg" alt="">
                             </div>
                             <div class="about-list-content">
-                                <h3>Ergoterapie</h3>
+                                <h3>ergoterapie</h3>
                             </div>
                         </div>
                         <!-- About List Item End -->
@@ -318,23 +268,13 @@
                     <div class="about-us-footer">
                         <!-- Doctor Info Start -->
                         <div class="doctor-info wow fadeInUp" data-wow-delay="1s">
-                            <div class="doctor-info-item">
-                                <div class="image-box">
-                                    <figure class="image-anime">
-                                        <img src="images/cortex-podklady/a-bittnerova-square.jpeg" alt="">
-                                    </figure>
-                                </div>
-                                <div class="doctor-info-content">
-                                    <h3>Adéla Bittnerová</h3>
-                                    <p>Intenzivní terapie</p>
-                                </div>
-                            </div>
+
                         </div>
                         <!-- Doctor Info End -->
 
                         <!-- Appointment Button Start -->
                         <div class="appointment-btn wow fadeInUp" data-wow-delay="1s">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default">Objednat se ihned</a>
+                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default">objednat se ihned</a>
                         </div>
                         <!-- Appointment Button End -->
                     </div>
@@ -356,7 +296,7 @@
                 <div class="col-lg-7">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Terapie</h3>
+                        <h3 class="wow fadeInUp">terapie</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Poskytujeme</span> komplexní služby</h2>
                     </div>
                     <!-- Section Title End -->
@@ -529,28 +469,30 @@
                 </div>
 
                 <div class="col-lg-6">
+                    <div class="sasa">
                     <!-- Service Item Start -->
-                    <div class="service-item service-cta-item wow fadeInUp" data-wow-delay="1.2s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <img src="images/icon-cta.svg" alt="">
-                        </div>
-                        <!-- Icon Box End -->
+                        <div class="service-item service-cta-item wow fadeInUp sasa static-white" data-wow-delay="1.2s">
+                            <!-- Icon Box Start -->
+                            <div class="icon-box">
+                                <img src="images/icon-cta.svg" alt="">
+                            </div>
+                            <!-- Icon Box End -->
 
-                        <!-- Service Body Start -->
-                        <div class="service-body">
-                            <h3>potřebujete poradit s výběrem služby?</h3>
-                            <p>Kontaktujte nás ještě dnes a domluvte si úvodní konzultaci.</p>
-                        </div>
-                        <!-- Service Body End -->
+                            <!-- Service Body Start -->
+                            <div class="service-body">
+                                <h3>Potřebujete poradit s výběrem služby?</h3>
+                                <p>Kontaktujte nás ještě dnes a domluvte si úvodní konzultaci.</p>
+                            </div>
+                            <!-- Service Body End -->
 
-                        <!-- Service Footer Start -->
-                        <div class="service-cta-btn">
-                            <a href="kontakt.php" target="blank_" id="ks-btn-gold" class="btn-default">spojte se s námi</a>
+                            <!-- Service Footer Start -->
+                            <div class="service-cta-btn">
+                                <a href="kontakt.php" target="blank_" id="ks-btn-gold" class="btn-default">spojte se s námi</a>
+                            </div>
+                            <!-- Service Footer End -->
                         </div>
-                        <!-- Service Footer End -->
-                    </div>
                     <!-- Service Item End -->
+                    </div>
                 </div>                
             </div>
         </div>
@@ -599,8 +541,8 @@
                 <div class="solution-plan-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Průběh terapie</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"> <span>Jak</span> To U Nás Probíhá?</h2>
+                        <h3 class="wow fadeInUp">průběh terapie</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"> <span>Jak</span> to u nás probíhá?</h2>
                     </div>
                     <!-- Section Title End -->
 
@@ -608,15 +550,15 @@
                     <div class="solution-plan-body wow fadeInUp" data-wow-delay="0.5s">
                         <ul>
                             <li>
-                                <h4>Vstupní konzultace</h4>
+                                <h4>vstupní konzultace</h4>
                                 <p>Pro úspěšné zahájení terapie je nejdříve potřeba absolvovat vstupní konzultaci. Cílem této konzultace je doporučení nejvhodnější terapie a sestavení rehabilitačního plánu. Budeme od Vás potřebovat lékařskou dokumentaci a vyplněný online vstupní formulář.</p>
                             </li>
                             <li>
-                                <h4>Rezervace terapie</h4>
+                                <h4>rezervace terapie</h4>
                                 <p>Jakmile proběhne vstupní konzultace, můžete si rezervovat intenzivní terapii a naše další programy. Intenzivní terapie se řídí předem zveřejněnými termíny pro daný rok. Po domluvě Vám vytvoříme závaznou rezervaci a zašleme fakturu. Rezervace je platná ve chvíli, kdy je uhrazena celá částka za terapii.</p>
                             </li>
                             <li>
-                                <h4>Nástup do terapie</h4>
+                                <h4>nástup do terapie</h4>
                                 <p>Po uhrazení částky Vám zašleme pozvánku s informacemi k nástupu do terapie. Intenzivní terapie probíhají každý den ve stejný čas, pokud terapeut nesdělí jinak. Centrum si vyhrazuje možnost změny termínu.</p>
                             </li>
                         </ul>
@@ -679,7 +621,7 @@
             <div class="row section-row">
                 <!-- Section Title Start -->
                 <div class="section-title">
-                    <h3 class="wow fadeInUp">Proč my?</h3>
+                    <h3 class="wow fadeInUp">proč my?</h3>
                     <h2 class="text-anime-style-2" data-cursor="-opaque"><span>3P</span> PREVENCE, PRECIZNOST a PROGRES.</h2>
                     </div>
                 <!-- Section Title End -->
@@ -701,7 +643,7 @@
     
                                 <!-- Why Choose Content Start -->
                                 <div class="why-choose-content">
-                                    <h3>Prevence</h3>
+                                    <h3>prevence</h3>
                                     <p>V rámci PREVENCE se zaměřujeme především na včasný záchyt odchylek v psychomotorickém vývoji, edukaci a dlouhodobému screeningu.</p>
                                 </div>
                                 <!-- Why Choose Content End -->
@@ -718,8 +660,8 @@
     
                                 <!-- Why Choose Content Start -->
                                 <div class="why-choose-content">
-                                    <h3>Preciznost</h3>
-                                    <p>znamená individuální přístup, vstupní konzultaci a návrh terapie.</p>
+                                    <h3>preciznost</h3>
+                                    <p>Znamená individuální přístup, vstupní konzultaci a návrh terapie.</p>
                                 </div>
                                 <!-- Why Choose Content End -->
                             </div>
@@ -735,7 +677,7 @@
     
                                 <!-- Why Choose Content Start -->
                                 <div class="why-choose-content">
-                                    <h3>Progres</h3>
+                                    <h3>progres</h3>
                                     <p>Terapie je přizpůsobena individuálním potřebám pro dosažení PROGRESU.</p>
                                 </div>
                                 <!-- Why Choose Content End -->
@@ -758,7 +700,7 @@
     
                                 <!-- Why Choose Content Start -->
                                 <div class="why-choose-content">
-                                    <h3>Moderní technologie</h3>
+                                    <h3>moderní technologie</h3>
                                     <p>Využíváme nejnovější terapeutické metody a přístroje pro maximální efektivitu léčby.</p>
                                 </div>
                                 <!-- Why Choose Content End -->
@@ -775,7 +717,7 @@
     
                                 <!-- Why Choose Content Start -->
                                 <div class="why-choose-content">
-                                    <h3>Přístupnost a pohodlí</h3>
+                                    <h3>přístupnost a pohodlí</h3>
                                     <p>Nabízíme ambulantní i domácí fyzioterapii, aby byla péče dostupná pro každého.</p>
                                 </div>
                                 <!-- Why Choose Content End -->
@@ -792,7 +734,7 @@
     
                                 <!-- Why Choose Content Start -->
                                 <div class="why-choose-content">
-                                    <h3>Komplexní péče</h3>
+                                    <h3>komplexní péče</h3>
                                     <p>Naše terapie zahrnuje nejen fyzioterapii, ale i dlouhodobé sledování vývoje.</p>
                                 </div>
                                 <!-- Why Choose Content End -->
@@ -828,8 +770,8 @@
                 <div class="col-lg-9">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Terapeuté</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Náš oddaný</span> A zkušený tým terapeutů</h2>
+                        <h3 class="wow fadeInUp">terapeuté</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Náš oddaný</span> a zkušený tým terapeutů</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -837,14 +779,14 @@
                 <div class="col-lg-3">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="nas-tym.php" class="btn-default">Náš tým</a>
+                        <a href="nas-tym.php" class="btn-default">náš tým</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
             </div>
 
             <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
@@ -869,7 +811,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
@@ -894,7 +836,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <!-- Team Image Start -->
@@ -918,11 +860,7 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-
-               
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
@@ -947,7 +885,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
@@ -971,7 +909,7 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
@@ -996,8 +934,9 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                
+               
             </div>
+
         </div>
         </div>
     <!-- Our Team End -->
@@ -1009,7 +948,7 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Recenze</h3>
+                        <h3 class="wow fadeInUp">recenze</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Zkušenosti</span> našich klientů</h2>
                     </div>
                     <!-- Section Title End -->
@@ -1166,12 +1105,12 @@
             <div class="col-lg-9">
                 <div class="section-title">
                     <h3 class="wow fadeInUp">Aktuality & Blog</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Blog</span> - články a příběhy</h2>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>blog</span> - články a příběhy</h2>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                    <a href="blog.php" class="btn-default">Zobrazit všechny</a>
+                    <a href="blog.php" class="btn-default">zobrazit všechny</a>
                 </div>
             </div>
         </div>

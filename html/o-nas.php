@@ -4,7 +4,110 @@
     <?php include 'header.php'; ?>
 
 
+    <!-- Therapy Process Start -->
+    <div class="therapy-process">
+        <div class="container">
+            <div class="row section-row">
+                <div class="col-lg-12">
+                    <!-- Section Title Start -->
+                    <div class="section-title">
+                        <h3 class="wow fadeInUp">proces terapie</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Jak to</span> u nás probíhá?</h2>
+                    </div>
+                    <!-- Section Title End -->
+                </div>  
+            </div>
 
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <!-- Therapy Process Item Start -->
+                    <div class="therapy-process-item wow fadeInUp">
+                        <!-- Icon Box Start -->
+                        <div class="icon-box">
+                            <figure class="image-anime">
+                                <img src="images/cortex-podklady/1.svg" width="100" height="100" alt="">
+                            </figure>
+                        </div>
+                        <!-- Icon Box End -->
+
+                        <!-- Therapy Process Content Start -->
+                        <div class="therapy-process-content">
+                            <h3>vstupní konzultace</h3>
+                            <p>Pro úspěšné zahájení terapie je nejdříve potřeba absolvovat vstupní konzultaci. Cílem konzultace je doporučení nejvhodnější terapie. </p>
+                        </div>
+                        <!-- Therapy Process Content End -->
+                    </div>
+                    <!-- Therapy Process Item End -->
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <!-- Therapy Process Item Start -->
+                    <div class="therapy-process-item wow fadeInUp" data-wow-delay="0.25s">
+                        <!-- Icon Box Start -->
+                        <div class="icon-box">
+                            <figure class="image-anime">
+                                <img src="images/cortex-podklady/4.svg" alt="">
+                            </figure>
+                        </div>
+                        <!-- Icon Box End -->
+
+                        <!-- Therapy Process Content Start -->
+                        <div class="therapy-process-content">
+                            <h3>rezervace terapie</h3>
+                            <p>Jakmile proběhne vstupní konzultace můžete si rezervovat intenzivní terapii a naše další programy. Intenzivní terapie se řídí předem zveřejněnými termíny pro daný rok.</p>
+                        </div>
+                        <!-- Therapy Process Content End -->
+                    </div>
+                    <!-- Therapy Process Item End -->
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <!-- Therapy Process Item Start -->
+                    <div class="therapy-process-item wow fadeInUp" data-wow-delay="0.5s">
+                        <!-- Icon Box Start -->
+                        <div class="icon-box">
+                            <figure class="image-anime">
+                                <img src="images/cortex-podklady/2.svg" alt="">
+                            </figure>
+                        </div>
+                        <!-- Icon Box End -->
+
+                        <!-- Therapy Process Content Start -->
+                        <div class="therapy-process-content">
+                            <h3>nástup do terapie</h3>
+                            <p>Intenzivní terapie probíhají každý den ve stejný čas pokud terapeut nesdělí jinak. <br>Centrum si vyhrazuje možnost změny termínu.
+
+                            </p>
+                        </div>
+                        <!-- Therapy Process Content End -->
+                    </div>
+                    <!-- Therapy Process Item End -->
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <!-- Therapy Process Item Start -->
+                    <div class="therapy-process-item wow fadeInUp" data-wow-delay="0.75s">
+                        <!-- Icon Box Start -->
+                        <div class="icon-box">
+                            <figure class="image-anime">
+                                <img src="images/cortex-podklady/3.svg" alt="">
+                            </figure>
+                        </div>
+                        <!-- Icon Box End -->
+
+                        <!-- Therapy Process Content Start -->
+                        <div class="therapy-process-content">
+                            <h3>finální fáze</h3>
+                            <p>Po ukončení terapie s Vámi terapeut zhodnotí dosažené pokroky a doporučí další postup. V případě potřeby navrhneme pokračování terapie či kontrolní konzultace.</p>
+                        </div>
+                        <!-- Therapy Process Content End -->
+                    </div>
+                    <!-- Therapy Process Item End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Therapy Process End -->
     
 
     <!-- Mission Vision Start -->
@@ -13,8 +116,8 @@
             <div class="row section-row">
                 <!-- Section Title Start -->
                 <div class="section-title">
-                    <h3 class="wow fadeInUp">Proč si vybrat nás?</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>V Cortexu se řídíme heslem „3P“</span><br> Prevence, Preciznost a Progres.</h2>
+                    <h3 class="wow fadeInUp">proč si vybrat nás?</h3>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>V Cortexu se řídíme heslem „3P“</span><br> PREVENCE, PRECIZNOST a PROGRES.</h2>
                 </div>
                 <!-- Section Title End -->
             </div>
@@ -203,9 +306,9 @@
                     <div class="quality-treatment-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">Moderní neuro-terapeutické centrum</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">  <span>Cortex Neuro Centre</span> neuro-terapeutické centrum v Praze</h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.25s">Cortex Neuro Centre je neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
+                            <h3 class="wow fadeInUp">moderní neuro-terapeutické centrum</h3>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Cortex Neuro Centre<span> neuro-terapeutické centrum v Praze</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.25s">Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
                          </div>
                         <!-- Section Title End -->
 
@@ -214,7 +317,8 @@
                             <ul>
                                 <li>vývojová poradna</li>
                                 <li>Intenzivní terapie</li>
-                                <li>Ergoterapie, Fyzioterapie</li>
+                                <li>Ergoterapie</li>
+                                <li>Fyzioterapie pro děti a dospělé</li>
                             </ul>
                         </div>
                         <!-- Quality Treatment Body End -->
@@ -226,111 +330,6 @@
     </div>
     <!-- Quality Treatment Section End -->
 
-    <!-- Therapy Process Start -->
-    <div class="therapy-process">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title">
-                        <h3 class="wow fadeInUp">proces terapie</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Jak to</span> u nás probíhá?</h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>  
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Therapy Process Item Start -->
-                    <div class="therapy-process-item wow fadeInUp">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/1.svg" width="100" height="100" alt="">
-                            </figure>
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Therapy Process Content Start -->
-                        <div class="therapy-process-content">
-                            <h3>Vstupní konzultace</h3>
-                            <p>Pro úspěšné zahájení terapie je nejdříve potřeba absolvovat vstupní konzultaci. Cílem konzultace je doporučení nejvhodnější terapie. </p>
-                        </div>
-                        <!-- Therapy Process Content End -->
-                    </div>
-                    <!-- Therapy Process Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Therapy Process Item Start -->
-                    <div class="therapy-process-item wow fadeInUp" data-wow-delay="0.25s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/4.svg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Therapy Process Content Start -->
-                        <div class="therapy-process-content">
-                            <h3>Rezervace terapie</h3>
-                            <p>Jakmile proběhne vstupní konzultace můžete si rezervovat intenzivní terapii a naše další programy. Intenzivní terapie se řídí předem zveřejněnými termíny pro daný rok.</p>
-                        </div>
-                        <!-- Therapy Process Content End -->
-                    </div>
-                    <!-- Therapy Process Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Therapy Process Item Start -->
-                    <div class="therapy-process-item wow fadeInUp" data-wow-delay="0.5s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/2.svg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Therapy Process Content Start -->
-                        <div class="therapy-process-content">
-                            <h3>Nástup do terapie</h3>
-                            <p>Intenzivní terapie probíhají každý den ve stejný čas pokud terapeut nesdělí jinak. <br>Centrum si vyhrazuje možnost změny termínu.
-
-                            </p>
-                        </div>
-                        <!-- Therapy Process Content End -->
-                    </div>
-                    <!-- Therapy Process Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Therapy Process Item Start -->
-                    <div class="therapy-process-item wow fadeInUp" data-wow-delay="0.75s">
-                        <!-- Icon Box Start -->
-                        <div class="icon-box">
-                            <figure class="image-anime">
-                                <img src="images/cortex-podklady/3.svg" alt="">
-                            </figure>
-                        </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Therapy Process Content Start -->
-                        <div class="therapy-process-content">
-                            <h3>finální fáze</h3>
-                            <p>Po ukončení terapie s Vámi terapeut zhodnotí dosažené pokroky a doporučí další postup. V případě potřeby navrhneme pokračování terapie či kontrolní konzultace.</p>
-                        </div>
-                        <!-- Therapy Process Content End -->
-                    </div>
-                    <!-- Therapy Process Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Therapy Process End -->
-
     <!-- Client Testimonial Start -->
     <div class="our-testimonial parallaxie">
         <div class="container">
@@ -338,7 +337,7 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Recenze</h3>
+                        <h3 class="wow fadeInUp">recenze</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Zkušenosti</span> našich klientů</h2>
                     </div>
                     <!-- Section Title End -->
@@ -494,8 +493,8 @@
                 <div class="col-lg-9">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Terapeuté</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Náš oddaný</span> & zkušený tým terapeutů</h2>
+                        <h3 class="wow fadeInUp">terapeuté</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Náš oddaný</span> a zkušený tým terapeutů</h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -503,14 +502,14 @@
                 <div class="col-lg-3">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="nas-tym.php" class="btn-default">Náš tým</a>
+                        <a href="nas-tym.php" class="btn-default">náš tým</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
             </div>
 
             <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
@@ -535,7 +534,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
@@ -560,7 +559,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.5s">
                         <!-- Team Image Start -->
@@ -584,11 +583,7 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-
-
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp">
                         <!-- Team Image Start -->
@@ -613,7 +608,7 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
@@ -637,7 +632,7 @@
                     </div>
                     <!-- Team Member Item End -->
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-2 col-md-4">
                     <!-- Team Member Item Start -->
                     <div class="team-member-item wow fadeInUp" data-wow-delay="0.25s">
                         <!-- Team Image Start -->
@@ -662,8 +657,9 @@
                     <!-- Team Member Item End -->
                 </div>
 
-                
+               
             </div>
+
         </div>
         </div>
     <!-- Our Team End -->

@@ -178,3 +178,31 @@ h1{
     height: 100%;
     object-fit: cover;
 }
+
+.header-btn .btn-default::before{
+    background-color: #C39824;
+}
+
+.service-cta-btn .btn-default::before{
+    background-color: #C39824;
+}
+
+.sasa .service-item:hover .service-body h3{
+	color: var(--primary-color);
+}
+
+.sasa .service-item:hover .service-body p{
+	color: var(--primary-color);
+}
+
+.sasa .service-item .icon-box::before{
+	content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    border-radius: 0px;
+    background-color: var(--secondary-color);
+    transition: all 0.5s ease-in-out;
+    height: 100%;
+}
