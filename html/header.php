@@ -64,8 +64,8 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                     <!-- Topbar Contact Information Start -->
                     <div class="topbar-contact-info">
                         <ul>
-                            <li class="hide-on-small"><a href="#"><img src="images/icon-phone.svg" alt="">+(420) 702 127 286</a></li>
-                            <li><a href="#"><img src="images/icon-mail.svg" alt=""> info@cortexneurocentre.cz</a></li>
+                            <li class=""><a href="#"><img src="images/icon-phone.svg" alt="">+(420) 702 127 286</a></li>
+                            <li class="hide-on-small"><a href="#"><img src="images/icon-mail.svg" alt=""> info@cortexneurocentre.cz</a></li>
                             <li class="hide-mobile"><a href="https://www.google.com/maps?ll=50.114671,14.467651&z=17&t=m&hl=en&gl=CZ&mapclient=embed&cid=12347777600494666582"><img src="images/icon-location.svg" alt="">Chlumčanského 497/5, 180 00 Praha 8</a></li>
                         </ul>
                     </div>
@@ -129,7 +129,7 @@ $pageTitle = ($pageName === "index") ? "Domů" : ucwords(str_replace("-", " ", $
                     </div>
                     <!-- Main Menu End -->
                     <div class="navbar-toggle mx-auto"></div>
-                    <a href="#" class="sasa-d-none">
+                    <a href="https://my.medevio.cz/cortex-neuro-centre" class="sasa-d-none">
                     VSTUPNÍ KONZULTACE
                     <img src="images/icon-phone.svg" alt="" />
                     </a>
