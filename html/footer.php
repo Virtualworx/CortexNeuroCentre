@@ -28,7 +28,7 @@
                     <div class="about-footer">
                         <!-- Footer Logo Start -->
                         <div class="footer-logo">
-                            <img src="images/cortex-podklady/Cortex_Horizontal_W.png" alt="">
+                            <img src="images/cortex-podklady/Cortex_Horizontal-white-c.png" width="180px" height="auto" alt="">
                         </div>
                         <!-- Footer Logo End -->
 
