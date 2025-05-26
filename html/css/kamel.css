@@ -266,6 +266,7 @@ h1{
         gap: 10px;                          /* mezera mezi textem a ikonou */
         text-decoration: none;
         transition: background-color 0.3s ease;
+        justify-content: center;
     }
     .sasa-d-none:hover {
         background-color: var(--secondary-color);         /* tmavší odstín na hover */
