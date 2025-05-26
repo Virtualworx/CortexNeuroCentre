@@ -38,7 +38,7 @@
                     <div class="hero-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">vítejte v</h3>
+                            <h3 class="wow fadeInUp">Vítejte v</h3>
                             <h1 class="text-anime-style-2 mb-5 mt-5" data-cursor="-opaque"><span>Cortex</span> Neuro Centre</h1>
                             <p class="wow fadeInUp" data-wow-delay="0.25s"></p>
                         </div>
@@ -46,8 +46,8 @@
 
                         <!-- Hero Content Body Start -->
                         <div class="hero-content-body wow fadeInUp mt-5 pt-4" data-wow-delay="0.5s">
-                            <a href="terapie.php" class="btn-default btn-highlighted">terapie</a>
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default btn-highlighted" target="_blank">objednat se ihned</a>
+                            <a href="terapie.php" class="btn-default btn-highlighted">Terapie</a>
+                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default btn-highlighted" target="_blank">Objednat se ihned</a>
                         </div>
                         <!-- Hero Content Body End -->
                     </div>
@@ -64,7 +64,7 @@
         <div class="row section-row">
             <!-- Section Title Start -->
             <div class="section-title">
-                <h3 class="wow fadeInUp">potřebujete péči?</h3>
+                <h3 class="wow fadeInUp">Potřebujete péči?</h3>
                 <h2 class="text-anime-style-2" data-cursor="-opaque">S čím Vám můžeme pomoci?</h2>
                 
             </div>
@@ -209,7 +209,7 @@
                     <div class="about-content">
                     <!-- Section Title Start -->
                         <div class="section-title">
-                        <h3 class="wow fadeInUp">o nás</h3>
+                        <h3 class="wow fadeInUp">O nás</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque">Cortex<span> Neuro Centre</span></h2>
                         <p class="wow fadeInUp" data-wow-delay="0.25s">Jsme neuro-terapeutické centrum v Praze. Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
 
@@ -274,7 +274,7 @@
 
                         <!-- Appointment Button Start -->
                         <div class="appointment-btn wow fadeInUp" data-wow-delay="1s">
-                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default" target="_blank">objednat se ihned</a>
+                            <a href="https://my.medevio.cz/cortex-neuro-centre" class="btn-default" target="_blank">Objednat se ihned</a>
                         </div>
                         <!-- Appointment Button End -->
                     </div>
@@ -305,7 +305,7 @@
                 <div class="col-lg-5">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="terapie.php" class="btn-default">všechny služby</a>
+                        <a href="terapie.php" class="btn-default">Všechny služby</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
@@ -487,7 +487,7 @@
 
                             <!-- Service Footer Start -->
                             <div class="service-cta-btn">
-                                <a href="kontakt.php" target="blank_" id="ks-btn-gold" class="btn-default">spojte se s námi</a>
+                                <a href="kontakt.php" target="blank_" id="ks-btn-gold" class="btn-default">Spojte se s námi</a>
                             </div>
                             <!-- Service Footer End -->
                         </div>
@@ -541,7 +541,7 @@
                 <div class="solution-plan-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">průběh terapie</h3>
+                        <h3 class="wow fadeInUp">Průběh terapie</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque"> <span>Jak</span> to u nás probíhá?</h2>
                     </div>
                     <!-- Section Title End -->
@@ -621,7 +621,7 @@
             <div class="row section-row">
                 <!-- Section Title Start -->
                 <div class="section-title">
-                    <h3 class="wow fadeInUp">proč my?</h3>
+                    <h3 class="wow fadeInUp">Proč my?</h3>
                     <h2 class="text-anime-style-2" data-cursor="-opaque"><span>3P</span> PREVENCE, PRECIZNOST a PROGRES.</h2>
                     </div>
                 <!-- Section Title End -->
@@ -779,7 +779,7 @@
                 <div class="col-lg-3">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="nas-tym.php" class="btn-default">náš tým</a>
+                        <a href="nas-tym.php" class="btn-default">Náš tým</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
@@ -1115,7 +1115,7 @@
                                     <!-- Section Title Start -->
                                     <div class="section-title">
                                         <!--<h3 class="wow fadeInUp mt-4 mb-0 btn-default">Přidat Recenzi</h3>-->
-                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">přidat recenzi</a>
+                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">Přidat recenzi</a>
                                     </div>
                                     <!-- Section Title End -->
                                 </div>
@@ -1137,12 +1137,12 @@
             <div class="col-lg-9">
                 <div class="section-title">
                     <h3 class="wow fadeInUp">Aktuality & Blog</h3>
-                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>blog</span> - články a příběhy</h2>
+                    <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Blog</span> - články a příběhy</h2>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                    <a href="blog.php" class="btn-default">zobrazit všechny</a>
+                    <a href="blog.php" class="btn-default">Zobrazit všechny</a>
                 </div>
             </div>
         </div>

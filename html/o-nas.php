@@ -11,7 +11,7 @@
                 <div class="col-lg-12">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">proces terapie</h3>
+                        <h3 class="wow fadeInUp">Proces terapie</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque"><span>Jak to</span> u nás probíhá?</h2>
                     </div>
                     <!-- Section Title End -->
@@ -117,7 +117,7 @@
             <div class="row section-row">
                 <!-- Section Title Start -->
                 <div class="section-title">
-                    <h3 class="wow fadeInUp">proč si vybrat nás?</h3>
+                    <h3 class="wow fadeInUp">Proč si vybrat nás?</h3>
                     <h2 class="text-anime-style-2" data-cursor="-opaque"><span>V Cortexu se řídíme heslem „3P“</span><br> PREVENCE, PRECIZNOST a PROGRES.</h2>
                 </div>
                 <!-- Section Title End -->
@@ -307,7 +307,7 @@
                     <div class="quality-treatment-content">
                         <!-- Section Title Start -->
                         <div class="section-title">
-                            <h3 class="wow fadeInUp">moderní neuro-terapeutické centrum</h3>
+                            <h3 class="wow fadeInUp">Moderní neuro-terapeutické centrum</h3>
                             <h2 class="text-anime-style-2" data-cursor="-opaque">Cortex Neuro Centre<span> neuro-terapeutické centrum v Praze</span></h2>
                             <p class="wow fadeInUp" data-wow-delay="0.25s">Naší hlavní specializací jsou programy intenzivní terapie, vývojová poradna a ambulantní fyzioterapie pro děti a dospělé.</p>
                          </div>
@@ -317,9 +317,9 @@
                         <div class="quality-treatment-body wow fadeInUp" data-wow-delay="0.5s">
                             <ul>
                                 <li>vývojová poradna</li>
-                                <li>Intenzivní terapie</li>
-                                <li>Ergoterapie</li>
-                                <li>Fyzioterapie pro děti a dospělé</li>
+                                <li>intenzivní terapie</li>
+                                <li>ergoterapie</li>
+                                <li>fyzioterapie pro děti a dospělé</li>
                             </ul>
                         </div>
                         <!-- Quality Treatment Body End -->
@@ -347,7 +347,7 @@
                 <div class="col-lg-3">
                     <!-- Section Button Start -->
                     <div class="section-btn wow fadeInUp" data-wow-delay="0.25s">
-                        <a href="nas-tym.php" class="btn-default">náš tým</a>
+                        <a href="nas-tym.php" class="btn-default">Náš tým</a>
                     </div>
                     <!-- Section Button End -->
                 </div>
@@ -683,7 +683,7 @@
                                     <!-- Section Title Start -->
                                     <div class="section-title">
                                         <!--<h3 class="wow fadeInUp mt-4 mb-0 btn-default">Přidat Recenzi</h3>-->
-                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">přidat recenzi</a>
+                                        <a href="https://www.google.com/search?sca_esv=60f4f109ec306286&sxsrf=AHTn8zqvfVPm6c_Z2vPtyfxQzQEUPmI_dA:1745769214265&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzacbpOwOtsfVeUh_rxAt14P0JxAKgczAzYpwbmq608cSLT3-cKrmhft_0_CYPU4M02IMi9D-9G8swHtGBzH2v7GGAVqfhHSFboNKYj7yIg_1DiIE3KDi6qLYmUl5eBwykcqO7jDiCbRwrxDnXowSM6WEFLDY&q=Cortex+Neuro+Centre+s.r.o+-+Neurorehabilitace+/+Fyzioterapie+Reviews&sa=X&ved=2ahUKEwiy7ICPyfiMAxW8hv0HHVRVGn4Q0bkNegQIOBAE&biw=1920&bih=959&dpr=1" class="btn-default mt-4 mb-0">Přidat recenzi</a>
                                     </div>
                                     <!-- Section Title End -->
                                 </div>
